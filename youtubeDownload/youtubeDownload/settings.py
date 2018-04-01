@@ -76,12 +76,8 @@ WSGI_APPLICATION = 'youtubeDownload.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'myproject',
-        'USER': 'myprojectuser',
-        'PASSWORD': 'password',
-        'HOST': '128.199.238.218',
-        'PORT': '',
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
 
