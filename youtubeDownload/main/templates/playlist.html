@@ -1,0 +1,42 @@
+<div style="margin-top:10px; padding:10px; border:#e0e0e0 1px solid; border-radius:5px;">
+    
+        {% for vid in data %}
+        <div class="row">
+            
+            <div class="col-md-3 col-sm-12 col-lg-5">
+                <a >
+                    <img class="img-responsive img-thumbnail" src="{{vid.video.thumbnail}}" alt="Picture">
+                </a>
+                <div class="text-center"><h5 style="font-family:Lato">{{vid.video.playlist_index}}.{{vid.video.title}}</h5></div>
+            </div>
+            
+            
+            <div class="col-md-9 col-sm-12 col-lg-7">
+                {% if vid.full|length > 0 %}
+                <div class="panel panel-default">
+                    <div class="panel-heading">Audio + Video</div>
+                    <div class="panel-body">
+                        {% for i in vid.full %}
+                        <a role="button" title="" data-toggle="tooltip" style="margin:5px;" class="btn btn-primary" href="{{i.url}}" >{{i.height}}P .{{i.ext}}</a>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endif %}
+                
+                {% if vid.audio|length > 0 %}
+                <div class="panel panel-default">
+                    <div class="panel-heading">Only Audio</div>
+                    <div class="panel-body">
+                        {% for i in vid.audio %}
+                        <a role="button" title="{{i.size}}MB" data-toggle="tooltip" class="btn btn-primary" href="{{i.url}}">{{i.ext}}</a>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endif %}
+           
+            </div>
+        </div>
+        {% endfor %}
+</div>
+
+
