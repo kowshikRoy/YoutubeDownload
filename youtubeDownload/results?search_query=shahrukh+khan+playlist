@@ -1,0 +1,1200 @@
+  <!DOCTYPE html><html lang="en" data-cast-api-enabled="true"><head><style name="www-roboto" >@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:local('Roboto Regular'),local('Roboto-Regular'),url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxP.ttf)format('truetype');}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:local('Roboto Medium'),local('Roboto-Medium'),url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc9.ttf)format('truetype');}@font-face{font-family:'Roboto';font-style:italic;font-weight:400;src:local('Roboto Italic'),local('Roboto-Italic'),url(//fonts.gstatic.com/s/roboto/v18/KFOkCnqEu92Fr1Mu51xIIzc.ttf)format('truetype');}@font-face{font-family:'Roboto';font-style:italic;font-weight:500;src:local('Roboto Medium Italic'),local('Roboto-MediumItalic'),url(//fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf)format('truetype');}</style><script name="www-roboto" >if (document.fonts && document.fonts.load) {document.fonts.load("400 10pt Roboto", "E");document.fonts.load("500 10pt Roboto", "E");}</script><script >var ytcsi = {gt: function(n) {n = (n || '') + 'data_';return ytcsi[n] || (ytcsi[n] = {tick: {},info: {}});},now: window.performance && window.performance.timing &&window.performance.now ? function() {return window.performance.timing.navigationStart + window.performance.now();} : function() {return (new Date()).getTime();},tick: function(l, t, n) {ticks = ytcsi.gt(n).tick;var v = t || ytcsi.now();if (ticks[l]) {ticks['_' + l] = (ticks['_' + l] || [ticks[l]]);ticks['_' + l].push(v);}ticks[l] = v;},info: function(k, v, n) {ytcsi.gt(n).info[k] = v;},setStart: function(s, t, n) {ytcsi.info('yt_sts', s, n);ytcsi.tick('_start', t, n);}};(function(w, d) {ytcsi.setStart('dhs', w.performance ? w.performance.timing.responseStart : null);var isPrerender = (d.visibilityState || d.webkitVisibilityState) == 'prerender';var vName = (!d.visibilityState && d.webkitVisibilityState)? 'webkitvisibilitychange' : 'visibilitychange';if (isPrerender) {ytcsi.info('prerender', 1);var startTick = function() {ytcsi.setStart('dhs');d.removeEventListener(vName, startTick);};d.addEventListener(vName, startTick, false);}if (d.addEventListener) {d.addEventListener(vName, function() {ytcsi.tick('vc');}, false);}var slt = function(el, t) {setTimeout(function() {var n = ytcsi.now();el.loadTime = n;if (el.slt) {el.slt();}}, t);};w.__ytRIL = function(el) {if (!el.getAttribute('data-thumb')) {if (w.requestAnimationFrame) {w.requestAnimationFrame(function() {slt(el, 0);});} else {slt(el, 16);}}};})(window, document);</script><script >var ytcfg = {d: function() {return (window.yt && yt.config_) || ytcfg.data_ || (ytcfg.data_ = {});},get: function(k, o) {return (k in ytcfg.d()) ? ytcfg.d()[k] : o;},set: function() {var a = arguments;if (a.length > 1) {ytcfg.d()[a[0]] = a[1];} else {for (var k in a[0]) {ytcfg.d()[k] = a[0][k];}}}};</script>  <script>ytcfg.set("ROOT_VE_TYPE", 4724);ytcfg.set("EVENT_ID", "FLLAWqH8EsP6ogOl24_gCg");</script>
+  
+  
+
+
+
+
+  <script>
+        (function(){var b={a:"content-snap-width-1",b:"content-snap-width-2",c:"content-snap-width-3"};function f(){var a=[],c;for(c in b)a.push(b[c]);return a}
+function h(a){var c=f().concat(["guide-pinned","show-guide"]),e=c.length,g=[];a.replace(/\S+/g,function(a){for(var d=0;d<e;d++)if(a==c[d])return;g.push(a)});
+return g}
+;function k(a,c,e){var g=document.getElementsByTagName("html")[0],d=h(g.className);a&&1251<=(window.innerWidth||document.documentElement.clientWidth)&&(d.push("guide-pinned"),c&&d.push("show-guide"));e&&(e=(window.innerWidth||document.documentElement.clientWidth)-21-50,1251<=(window.innerWidth||document.documentElement.clientWidth)&&a&&c&&(e-=230),d.push(1262<=e?"content-snap-width-3":1056<=e?"content-snap-width-2":"content-snap-width-1"));g.className=d.join(" ")}
+var l=["yt","www","masthead","sizing","runBeforeBodyIsReady"],m=this;l[0]in m||"undefined"==typeof m.execScript||m.execScript("var "+l[0]);for(var n;l.length&&(n=l.shift());)l.length||void 0===k?m[n]&&m[n]!==Object.prototype[n]?m=m[n]:m=m[n]={}:m[n]=k;}).call(this);
+
+      try {window.ytbuffer = {};ytbuffer.handleClick = function(e) {var element = e.target || e.srcElement;while (element.parentElement) {if (/(^| )yt-can-buffer( |$)/.test(element.className)) {window.ytbuffer = {bufferedClick: e};element.className += ' yt-is-buffered';break;}element = element.parentElement;}};if (document.addEventListener) {document.addEventListener('click', ytbuffer.handleClick);} else {document.attachEvent('onclick', ytbuffer.handleClick);}} catch(e) {}
+
+    yt.www.masthead.sizing.runBeforeBodyIsReady(true,true,false);
+  </script>
+
+      <script src="/yts/jsbin/scheduler-vflmFCrpA/scheduler.js" type="text/javascript" name="scheduler/scheduler" ></script>
+
+
+  
+  <link rel="stylesheet" href="/yts/cssbin/www-core-vflx7D8A3.css" name="www-core">
+      <link rel="stylesheet" href="/yts/cssbin/player-vflxUKlL0/www-player.css" name="player/www-player">
+
+  <link rel="stylesheet" href="/yts/cssbin/www-pageframe-vflBE-miK.css" name="www-pageframe">
+  <link rel="stylesheet" href="/yts/cssbin/www-guide-vflY8baDX.css" name="www-guide">
+
+    
+<title>shahrukh khan playlist - YouTube</title><link rel="alternate" media="handheld" href="https://m.youtube.com/results?search_query=shahrukh+khan+playlist"><link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.youtube.com/results?search_query=shahrukh+khan+playlist"><meta name="description" content="Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."><meta name="keywords" content="video, sharing, camera phone, video phone, free, upload"><link rel="manifest" href="/manifest.json"><link rel="search" type="application/opensearchdescription+xml" href="https://www.youtube.com/opensearch?locale=en_US" title="YouTube Video Search"><link rel="shortcut icon" href="https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico" type="image/x-icon">     <link rel="icon" href="/yts/img/favicon_32-vflOogEID.png" sizes="32x32"><link rel="icon" href="/yts/img/favicon_48-vflVjB_Qk.png" sizes="48x48"><link rel="icon" href="/yts/img/favicon_96-vflW9Ec0w.png" sizes="96x96"><link rel="icon" href="/yts/img/favicon_144-vfliLAfaB.png" sizes="144x144"><meta name="theme-color" content="#ff0000">    <link rel="stylesheet" href="/yts/cssbin/www-results-vfl67U2zJ.css" name="www-results">
+
+    <link rel="stylesheet" href="/yts/cssbin/www-home-c4-vflALM-TN.css" name="www-home-c4">
+
+<style>.exp-invert-logo .hats-logo {background: no-repeat url(/yts/img/ringo/hitchhiker/logo_mini_gray-vflfanGkh.png);width: 65px;height: 15px;}.exp-invert-logo #header:before,.exp-invert-logo .ypc-join-family-header .logo,.exp-invert-logo #footer-logo .footer-logo-icon,.exp-invert-logo #yt-masthead #logo-container .logo,.exp-invert-logo #masthead #logo-container,.exp-invert-logo .admin-masthead-logo a,.exp-invert-logo #yt-sidebar-styleguide-logo #logo {background: no-repeat url(/yts/img/ringo/hitchhiker/logo_small-vflHpzGZm.png);width: 100px;height: 30px;}.exp-invert-logo.inverted-hdpi #header:before,.exp-invert-logo.inverted-hdpi .ypc-join-family-header .logo,.exp-invert-logo.inverted-hdpi #footer-logo .footer-logo-icon,.exp-invert-logo.inverted-hdpi #yt-masthead #logo-container .logo,.exp-invert-logo.inverted-hdpi #masthead #logo-container,.exp-invert-logo.inverted-hdpi .admin-masthead-logo a,.exp-invert-logo.inverted-hdpi #yt-sidebar-styleguide-logo #logo {background: no-repeat url(/yts/img/ringo/hitchhiker/logo_small_2x-vfl4_cFqn.png);background-size: 100px 30px;width: 100px;height: 30px;}.exp-invert-logo.exp-fusion-nav-redesign .masthead-logo-renderer-logo {background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo-vflLfk4yD.png);width: 40px;height: 28px;}.exp-invert-logo.inverted-hdpi.exp-fusion-nav-redesign .masthead-logo-renderer-logo {background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo_2x-vflXx5Pg3.png);width: 40px;height: 28px;}@media screen and (max-width: 656px) {.exp-invert-logo #yt-masthead #logo-container .logo {background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo-vflLfk4yD.png);width: 40px;height: 28px;}.exp-invert-logo.inverted-hdpi #yt-masthead #logo-container .logo {background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo_2x-vflXx5Pg3.png);background-size: 40px 28px;width: 40px;height: 28px;}}@media only screen and (min-width: 0px) and (max-width: 498px),only screen and (min-width: 499px) and (max-width: 704px) {.exp-invert-logo.exp-responsive #yt-masthead #logo-container {background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo-vflLfk4yD.png);width: 40px;height: 28px;}.exp-invert-logo.inverted-hdpi.exp-responsive #yt-masthead #logo-container {background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo_2x-vflXx5Pg3.png);background-size: 40px 28px;width: 40px;height: 28px;}}.exp-invert-logo #yt-masthead #logo-container .logo-red {background: no-repeat url(/yts/img/ringo/hitchhiker/logo_youtube_red-vflZxcSR1.png);width: 132px;height: 30px;}.exp-invert-logo.inverted-hdpi #yt-masthead #logo-container .logo-red {background: no-repeat url(/yts/img/ringo/hitchhiker/logo_youtube_red_2x-vflOSHA_n.png);background-size: 132px 30px;width: 132px;height: 30px;}.exp-invert-logo .guide-item .guide-video-youtube-red-icon {background: no-repeat url(/yts/img/ringo/hitchhiker/video_youtube_red-vflovGTdz.png);width: 20px;height: 20px;}.exp-invert-logo.inverted-hdpi .guide-item .guide-video-youtube-red-icon {background: no-repeat url(/yts/img/ringo/hitchhiker/video_youtube_red_2x-vflqMdgEM.png);background-size: 20px 20px;width: 20px;height: 20px;}.exp-invert-logo .guide-item:hover .guide-video-youtube-red-icon,.exp-invert-logo .guide-item.guide-item-selected .guide-video-youtube-red-icon {background: no-repeat url(/yts/img/ringo/hitchhiker/video_youtube_red_hover-vflgV4Gv0.png);width: 20px;height: 20px;}.exp-invert-logo.inverted-hdpi .guide-item:hover .guide-video-youtube-red-icon,.exp-invert-logo.inverted-hdpi .guide-item.guide-item-selected .guide-video-youtube-red-icon {background: no-repeat url(/yts/img/ringo/hitchhiker/video_youtube_red_hover_2x-vflYjZHvf.png);background-size: 20px 20px;width: 20px;height: 20px;}.exp-invert-logo li.guide-section h3,.exp-invert-logo li.guide-section h3 a {color: #f00;}.exp-invert-logo a.yt-uix-button-epic-nav-item:hover,.exp-invert-logo a.yt-uix-button-epic-nav-item.selected,.exp-invert-logo a.yt-uix-button-epic-nav-item.yt-uix-button-toggled,.exp-invert-logo a.yt-uix-button-epic-nav-item.partially-selected,.exp-invert-logo a.yt-uix-button-epic-nav-item.partially-selected:hover,.exp-invert-logo button.yt-uix-button-epic-nav-item:hover,.exp-invert-logo button.yt-uix-button-epic-nav-item.selected,.exp-invert-logo button.yt-uix-button-epic-nav-item.yt-uix-button-toggled,.exp-invert-logo .epic-nav-item:hover,.exp-invert-logo .epic-nav-item.selected,.exp-invert-logo .epic-nav-item.yt-uix-button-toggled,.exp-invert-logo .epic-nav-item-heading,.exp-invert-logo .yt-gb-shelf-item-thumbtab.yt-gb-selected-shelf-tab::before {border-color: #f00;}.exp-invert-logo .resume-playback-progress-bar,.exp-invert-logo .yt-uix-button-subscribe-branded,.exp-invert-logo .yt-uix-button-subscribe-branded[disabled],.exp-invert-logo .yt-uix-button-subscribe-branded[disabled]:hover,.exp-invert-logo .yt-uix-button-subscribe-branded[disabled]:active,.exp-invert-logo .yt-uix-button-subscribe-branded[disabled]:focus,.exp-invert-logo .sb-notif-on .yt-uix-button-content,.exp-invert-logo .guide-item.guide-item-selected,.exp-invert-logo .guide-item.guide-item-selected:hover,.exp-invert-logo .guide-item.guide-item-selected .yt-deemphasized-text,.exp-invert-logo .guide-item.guide-item-selected:hover .yt-deemphasized-text {background-color: #f00;}.exp-invert-logo .yt-uix-button-subscribe-branded:hover {background-color: #d90a17;}.exp-invert-logo .yt-uix-button-subscribe-branded.yt-is-buffered,.exp-invert-logo .yt-uix-button-subscribe-branded:active,.exp-invert-logo .yt-uix-button-subscribe-branded.yt-uix-button-toggled,.exp-invert-logo .yt-uix-button-subscribe-branded.yt-uix-button-active,.exp-invert-logo .yt-uix-button-subscribed-branded.external,.exp-invert-logo .yt-uix-button-subscribed-branded.external[disabled],.exp-invert-logo .yt-uix-button-subscribed-branded.external:active,.exp-invert-logo .yt-uix-button-subscribed-branded.external.yt-uix-button-toggled,.exp-invert-logo .yt-uix-button-subscribed-branded.external.yt-uix-button-active {background-color: #a60812;}</style><style>.exp-invert-logo #header:before, .exp-invert-logo .ypc-join-family-header .logo, .exp-invert-logo #footer-logo .footer-logo-icon, .exp-invert-logo #yt-masthead #logo-container .logo, .exp-invert-logo #masthead #logo-container, .exp-invert-logo .admin-masthead-logo a, .exp-invert-logo #yt-sidebar-styleguide-logo #logo { background: no-repeat url(/yts/img/ringo/hitchhiker/logo_small_2x-vfl4_cFqn.png); background-size: 100px 30px; } .exp-invert-logo #yt-masthead #logo-container .logo-red { background: no-repeat url(/yts/img/ringo/hitchhiker/logo_youtube_red_2x-vflOSHA_n.png); background-size: 132px 30px; } @media only screen and (min-width: 0px) and (max-width: 498px), only screen and (min-width: 499px) and (max-width: 704px) { .exp-invert-logo.exp-responsive #yt-masthead #logo-container { background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo_2x-vflXx5Pg3.png); background-size: 40px 28px; } } .guide-sort-container {display: none}</style></head>
+    <body dir="ltr" id="body" class="  visibility-logging-enabled  ltr    exp-invert-logo exp-mouseover-img exp-responsive exp-scrollable-guide exp-search-big-thumbs   site-center-aligned site-as-giant-card guide-pinning-enabled appbar-hidden   not-nirvana-dogfood    delayed-frame-styles-not-in  " data-spf-name="other">
+
+  <div id="early-body"></div>
+  <div id="body-container"><div id="a11y-announcements-container" role="alert"><div id="a11y-announcements-message"></div></div><form name="logoutForm" method="POST" action="/logout"><input type="hidden" name="action_logout" value="1"></form><div id="masthead-positioner">  <div id="ticker-content">
+        
+
+  </div>
+  <div id="yt-masthead-container" class="clearfix yt-base-gutter">  <button id="a11y-skip-nav" class="skip-nav" data-target-id="main" tabindex="3">
+Skip navigation
+  </button>
+<div id="yt-masthead"><div class="yt-masthead-logo-container ">  <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon appbar-guide-toggle appbar-guide-clickable-ancestor" type="button" onclick=";return false;" id="appbar-guide-button" aria-label="Guide" aria-controls="appbar-guide-menu"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-appbar-guide yt-sprite"></span></span></button>
+  <div id="appbar-main-guide-notification-container"></div>
+<span id="yt-masthead-logo-fragment"><a href="/" class="masthead-logo-renderer yt-uix-sessionlink      spf-link " data-sessionlink="itct=CAUQsV4iEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ"  id="logo-container" title="YouTube Home">  <span class="logo masthead-logo-renderer-logo yt-sprite" title="YouTube Home"></span>
+<span class="content-region">SG</span></a></span></div><div id="yt-masthead-signin"><a  href="//www.youtube.com/upload" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-opacity yt-uix-button-size-default yt-uix-button-has-icon yt-uix-tooltip yt-uix-button-empty" data-sessionlink="ei=FLLAWqH8EsP6ogOl24_gCg&amp;feature=mhsb" id="upload-btn" title="Upload"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-material-upload yt-sprite"></span></span></a><div class="signin-container "><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-primary" type="button" onclick=";window.location.href=this.getAttribute(&#39;href&#39;);return false;" role="link" href="https://accounts.google.com/ServiceLogin?uilel=3&amp;service=youtube&amp;hl=en&amp;passive=true&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dsign_in_button%26next%3D%252Fresults%253Fsearch_query%253Dshahrukh%252Bkhan%252Bplaylist%26hl%3Den%26action_handle_signin%3Dtrue%26app%3Ddesktop"><span class="yt-uix-button-content">Sign in</span></button></div></div><div id="yt-masthead-content"><form id="masthead-search" class="  search-form consolidated-form  vve-check" action="/results" onsubmit="if (document.getElementById(&#39;masthead-search-term&#39;).value == &#39;&#39;) return false;" data-clicktracking="CAEQ7VAiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ" data-visibility-tracking="CAEQ7VAiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default search-btn-component search-button" type="submit" onclick="if (document.getElementById(&#39;masthead-search-term&#39;).value == &#39;&#39;) return false; document.getElementById(&#39;masthead-search&#39;).submit(); return false;;return true;" id="search-btn" tabindex="2" dir="ltr"><span class="yt-uix-button-content">Search</span></button><div id="masthead-search-terms" class="masthead-search-terms-border" dir="ltr"><input id="masthead-search-term" autocomplete="off"  onkeydown="if (!this.value &amp;&amp; (event.keyCode == 40 || event.keyCode == 32 || event.keyCode == 34)) {this.onkeydown = null; this.blur();}" class="search-term masthead-search-renderer-input yt-uix-form-input-bidi" name="search_query" value="shahrukh khan playlist" type="text" tabindex="1" placeholder="Search" title="Search" aria-label="Search"></div></form></div></div></div>
+    <div id="masthead-appbar-container" class="clearfix"><div id="masthead-appbar"><div id="appbar-content" class=""></div></div></div>
+
+</div><div id="masthead-positioner-height-offset"></div><div id="page-container"><div id="page" class="  search  branded-page-v2-secondary-column-wide  no-flex clearfix"><div id="guide" class="yt-scrollbar">      <div id="appbar-guide-menu" class="appbar-menu appbar-guide-menu-layout appbar-guide-clickable-ancestor yt-uix-scroller yt-uix-tdl" role="navigation">
+    <div id="guide-container">
+        <div class="guide-module-content yt-scrollbar">
+    <ul class="guide-toplevel">
+            <li class="guide-section vve-check"
+    data-visibility-tracking="">
+    <div class="guide-item-container personal-item">
+      
+      <ul class="guide-user-links yt-uix-tdl yt-box" role="menu">
+            
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="what_to_watch-guide-item" 
+ data-visibility-tracking="" role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "
+    href="/"
+    title="Home"
+    data-sessionlink="ei=FLLAWqH8EsP6ogOl24_gCg&amp;feature=g-system&amp;ved=CGoQtSwYACITCKHWmersmNoCFUO9aAodpe0DrCj0JA" data-visibility-tracking="" data-serialized-endpoint="0qDduQEREg9GRXdoYXRfdG9fd2F0Y2g%3D" data-external-id="what_to_watch"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb guide-what-to-watch-icon yt-sprite"></span>
+        <span class="display-name  no-count">
+          <span>
+            Home
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+            
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="trending-guide-item" 
+ data-visibility-tracking="" role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "
+    href="/feed/trending"
+    title="Trending"
+    data-sessionlink="ei=FLLAWqH8EsP6ogOl24_gCg&amp;feature=g-trending&amp;ved=CGsQtSwYASITCKHWmersmNoCFUO9aAodpe0DrCj0JA" data-visibility-tracking="" data-serialized-endpoint="0qDduQEMEgpGRXRyZW5kaW5n" data-external-id="trending"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb guide-trending-icon yt-sprite"></span>
+        <span class="display-name  no-count">
+          <span>
+            Trending
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+            
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="history-guide-item" 
+ data-visibility-tracking="" role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "
+    href="/feed/history"
+    title="History"
+    data-sessionlink="ei=FLLAWqH8EsP6ogOl24_gCg&amp;feature=g-personal&amp;ved=CGwQtSwYAiITCKHWmersmNoCFUO9aAodpe0DrCj0JA" data-visibility-tracking="" data-serialized-endpoint="0qDduQELEglGRWhpc3Rvcnk%3D" data-external-id="history"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb guide-history-icon yt-sprite"></span>
+        <span class="display-name  no-count">
+          <span>
+            History
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+      </ul>
+    </div>
+      <hr class="guide-section-separator">
+  </li>
+
+            <li class="guide-section vve-check"
+    data-visibility-tracking="">
+    <div class="guide-item-container personal-item">
+          <h3>
+      Best of YouTube
+    </h3>
+
+      <ul class="guide-user-links yt-uix-tdl yt-box" role="menu">
+            
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UC-9-kyTW8ZkZNDHQJ6FgpwQ-guide-item" 
+ data-visibility-tracking="" role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "
+    href="/channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ"
+    title="Music"
+    data-sessionlink="ei=FLLAWqH8EsP6ogOl24_gCg&amp;feature=g-channel&amp;ved=CG4QtSwYACITCKHWmersmNoCFUO9aAodpe0DrCj0JA" data-visibility-tracking="" data-serialized-endpoint="0qDduQEaEhhVQy05LWt5VFc4WmtaTkRIUUo2Rmdwd1E%3D" data-external-id="UC-9-kyTW8ZkZNDHQJ6FgpwQ"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb">  <span class="video-thumb  yt-thumb yt-thumb-20"
+    >
+    <span class="yt-thumb-square">
+      <span class="yt-thumb-clip">
+        
+  <img src="/yts/img/pixel-vfl3z5WfW.gif" height="20" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" width="20" data-thumb="//i.ytimg.com/i/-9-kyTW8ZkZNDHQJ6FgpwQ/1.jpg" data-ytimg="1" alt="" >
+
+        <span class="vertical-align"></span>
+      </span>
+    </span>
+  </span>
+</span>
+        <span class="display-name  no-count">
+          <span>
+            Music
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+            
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UCEgdi0XIXXZ-qJOFPf4JSKw-guide-item" 
+ data-visibility-tracking="" role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "
+    href="/channel/UCEgdi0XIXXZ-qJOFPf4JSKw"
+    title="Sports"
+    data-sessionlink="ei=FLLAWqH8EsP6ogOl24_gCg&amp;feature=g-channel&amp;ved=CG8QtSwYASITCKHWmersmNoCFUO9aAodpe0DrCj0JA" data-visibility-tracking="" data-serialized-endpoint="0qDduQEaEhhVQ0VnZGkwWElYWFotcUpPRlBmNEpTS3c%3D" data-external-id="UCEgdi0XIXXZ-qJOFPf4JSKw"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb">  <span class="video-thumb  yt-thumb yt-thumb-20"
+    >
+    <span class="yt-thumb-square">
+      <span class="yt-thumb-clip">
+        
+  <img src="/yts/img/pixel-vfl3z5WfW.gif" height="20" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" width="20" data-thumb="//i.ytimg.com/i/Egdi0XIXXZ-qJOFPf4JSKw/1.jpg" data-ytimg="1" alt="" >
+
+        <span class="vertical-align"></span>
+      </span>
+    </span>
+  </span>
+</span>
+        <span class="display-name  no-count">
+          <span>
+            Sports
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+            
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UCOpNcN46UbXVtpKMrmU4Abg-guide-item" 
+ data-visibility-tracking="" role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "
+    href="/channel/UCOpNcN46UbXVtpKMrmU4Abg"
+    title="Gaming"
+    data-sessionlink="ei=FLLAWqH8EsP6ogOl24_gCg&amp;feature=g-channel&amp;ved=CHAQtSwYAiITCKHWmersmNoCFUO9aAodpe0DrCj0JA" data-visibility-tracking="" data-serialized-endpoint="0qDduQEaEhhVQ09wTmNONDZVYlhWdHBLTXJtVTRBYmc%3D" data-external-id="UCOpNcN46UbXVtpKMrmU4Abg"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb">  <span class="video-thumb  yt-thumb yt-thumb-20"
+    >
+    <span class="yt-thumb-square">
+      <span class="yt-thumb-clip">
+        
+  <img src="/yts/img/pixel-vfl3z5WfW.gif" height="20" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" width="20" data-thumb="//i.ytimg.com/i/OpNcN46UbXVtpKMrmU4Abg/1.jpg" data-ytimg="1" alt="" >
+
+        <span class="vertical-align"></span>
+      </span>
+    </span>
+  </span>
+</span>
+        <span class="display-name  no-count">
+          <span>
+            Gaming
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+            
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UCYfdidRxbB8Qhf0Nx7ioOYw-guide-item" 
+ data-visibility-tracking="" role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "
+    href="/channel/UCYfdidRxbB8Qhf0Nx7ioOYw"
+    title="News"
+    data-sessionlink="ei=FLLAWqH8EsP6ogOl24_gCg&amp;feature=g-channel&amp;ved=CHEQtSwYAyITCKHWmersmNoCFUO9aAodpe0DrCj0JA" data-visibility-tracking="" data-serialized-endpoint="0qDduQEaEhhVQ1lmZGlkUnhiQjhRaGYwTng3aW9PWXc%3D" data-external-id="UCYfdidRxbB8Qhf0Nx7ioOYw"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb">  <span class="video-thumb  yt-thumb yt-thumb-20"
+    >
+    <span class="yt-thumb-square">
+      <span class="yt-thumb-clip">
+        
+  <img src="/yts/img/pixel-vfl3z5WfW.gif" height="20" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" width="20" data-thumb="//i.ytimg.com/i/YfdidRxbB8Qhf0Nx7ioOYw/1.jpg" data-ytimg="1" alt="" >
+
+        <span class="vertical-align"></span>
+      </span>
+    </span>
+  </span>
+</span>
+        <span class="display-name  no-count">
+          <span>
+            News
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+            
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UC4R8DWoMoI7CAwX8_LjQHig-guide-item" 
+ data-visibility-tracking="" role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "
+    href="/channel/UC4R8DWoMoI7CAwX8_LjQHig"
+    title="Live"
+    data-sessionlink="ei=FLLAWqH8EsP6ogOl24_gCg&amp;feature=g-channel&amp;ved=CHIQtSwYBCITCKHWmersmNoCFUO9aAodpe0DrCj0JA" data-visibility-tracking="" data-serialized-endpoint="0qDduQEaEhhVQzRSOERXb01vSTdDQXdYOF9MalFIaWc%3D" data-external-id="UC4R8DWoMoI7CAwX8_LjQHig"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb">  <span class="video-thumb  yt-thumb yt-thumb-20"
+    >
+    <span class="yt-thumb-square">
+      <span class="yt-thumb-clip">
+        
+  <img src="/yts/img/pixel-vfl3z5WfW.gif" height="20" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" width="20" data-thumb="//i.ytimg.com/i/4R8DWoMoI7CAwX8_LjQHig/1.jpg" data-ytimg="1" alt="" >
+
+        <span class="vertical-align"></span>
+      </span>
+    </span>
+  </span>
+</span>
+        <span class="display-name  no-count">
+          <span>
+            Live
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+            
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UCzuqhhs6NWbgTzMuM09WKDQ-guide-item" 
+ data-visibility-tracking="" role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "
+    href="/channel/UCzuqhhs6NWbgTzMuM09WKDQ"
+    title="360° Video"
+    data-sessionlink="ei=FLLAWqH8EsP6ogOl24_gCg&amp;feature=g-channel&amp;ved=CHMQtSwYBSITCKHWmersmNoCFUO9aAodpe0DrCj0JA" data-visibility-tracking="" data-serialized-endpoint="0qDduQEaEhhVQ3p1cWhoczZOV2JnVHpNdU0wOVdLRFE%3D" data-external-id="UCzuqhhs6NWbgTzMuM09WKDQ"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb">  <span class="video-thumb  yt-thumb yt-thumb-20"
+    >
+    <span class="yt-thumb-square">
+      <span class="yt-thumb-clip">
+        
+  <img src="/yts/img/pixel-vfl3z5WfW.gif" height="20" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" width="20" data-thumb="//i.ytimg.com/i/zuqhhs6NWbgTzMuM09WKDQ/1.jpg" data-ytimg="1" alt="" >
+
+        <span class="vertical-align"></span>
+      </span>
+    </span>
+  </span>
+</span>
+        <span class="display-name  no-count">
+          <span>
+            360° Video
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+      </ul>
+    </div>
+      <hr class="guide-section-separator">
+  </li>
+
+            <li class="guide-section vve-check"
+    data-visibility-tracking="">
+    <div class="guide-item-container personal-item">
+      
+      <ul class="guide-user-links yt-uix-tdl yt-box" role="menu">
+            
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="guide_builder-guide-item" 
+ data-visibility-tracking="" role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "
+    href="/feed/guide_builder"
+    title="Browse channels"
+    data-sessionlink="ei=FLLAWqH8EsP6ogOl24_gCg&amp;feature=g-manage&amp;ved=CHUQtSwYACITCKHWmersmNoCFUO9aAodpe0DrCj0JA" data-visibility-tracking="" data-serialized-endpoint="0qDduQEREg9GRWd1aWRlX2J1aWxkZXI%3D" data-external-id="guide_builder"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb guide-builder-icon yt-sprite"></span>
+        <span class="display-name  no-count">
+          <span>
+            Browse channels
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+      </ul>
+    </div>
+      <hr class="guide-section-separator">
+  </li>
+
+            <li class="guide-section guide-header signup-promo">
+    <p>
+      Sign in now to see your channels and recommendations!
+    </p>
+    <div id="guide-builder-promo-buttons" class="signed-out clearfix">
+      <a  href="https://accounts.google.com/ServiceLogin?uilel=3&amp;service=youtube&amp;hl=en&amp;passive=true&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dsign_in_promo%26next%3D%252Fresults%253Fsearch_query%253Dshahrukh%252Bkhan%252Bplaylist%26hl%3Den%26action_handle_signin%3Dtrue%26app%3Ddesktop" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=FLLAWqH8EsP6ogOl24_gCg"><span class="yt-uix-button-content">Sign in</span></a>
+    </div>
+  </li>
+
+    </ul>
+  </div>
+
+    </div>
+  </div>
+  <div id="appbar-guide-notifications" class="hid">
+        <div id="appbar-guide-notification-watch-later-video-added">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Added to Watch Later</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-watch-later-video-removed">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Removed from Watch Later</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-subscription">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Subscription added</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-unsubscription">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Subscription removed</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-playlist-like">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Saved to Playlists</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-playlist-unlike">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Removed from Playlists</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-playlist-video-added">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Added to playlist</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-playlist-video-removed">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Removed from playlist</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-video-like">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Added to Liked videos</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-video-unlike">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Removed from Liked videos</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-event-reminder-set">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >You'll be reminded about this event</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-event-reminder-removed">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Event reminder removed</span></span></div>
+    -->
+  </div>
+
+
+  </div>
+  <div id="appbar-guide-item-templates" class="hid">
+        <div id="appbar-guide-item-template-playlist">
+      <!--
+        
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item show-insertion-notification " id="__ID__-guide-item" 
+ data-visibility-tracking="" role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-nolink    "
+    href="__URL__"
+    title="__TITLE__"
+    data-sessionlink="ei=FLLAWqH8EsP6ogOl24_gCg&amp;feature=g-playlists" data-visibility-tracking="" data-serialized-endpoint="" data-external-id="__ID__"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb guide-playlists-icon yt-sprite"></span>
+        <span class="display-name  no-count">
+          <span>
+            __TITLE__
+          </span>
+        </span>
+    </span>
+  </a>
+
+      <div class="appbar-guide-notification guide-item-insertion-notification" role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" aria-label="Saved to Playlists">__NOTIFICATION_OVERLAY_MESSAGE__</span></span></div>
+  </li>
+
+      -->
+    </div>
+    <div id="appbar-guide-item-template-mix">
+      <!--
+        
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item show-insertion-notification " id="__ID__-guide-item" 
+ data-visibility-tracking="" role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-nolink    "
+    href="__URL__"
+    title="__TITLE__"
+    data-sessionlink="ei=FLLAWqH8EsP6ogOl24_gCg&amp;feature=g-playlists" data-visibility-tracking="" data-serialized-endpoint="" data-external-id="__ID__"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb guide-mix-icon yt-sprite"></span>
+        <span class="display-name  no-count">
+          <span>
+            __TITLE__
+          </span>
+        </span>
+    </span>
+  </a>
+
+      <div class="appbar-guide-notification guide-item-insertion-notification" role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" aria-label="Saved to Playlists">__NOTIFICATION_OVERLAY_MESSAGE__</span></span></div>
+  </li>
+
+      -->
+    </div>
+    <div id="appbar-guide-item-template-channel">
+      <!--
+        
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item show-insertion-notification " id="__ID__-guide-item" 
+ data-visibility-tracking="" role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-nolink    "
+    href="__URL__"
+    title="__TITLE__"
+    data-sessionlink="ei=FLLAWqH8EsP6ogOl24_gCg&amp;feature=g-channel" data-visibility-tracking="" data-serialized-endpoint="" data-external-id="__ID__"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb">  <span class="video-thumb  yt-thumb yt-thumb-20"
+    >
+    <span class="yt-thumb-square">
+      <span class="yt-thumb-clip">
+        
+  <img src="__THUMBNAIL_URL__" height="20" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" width="20" data-ytimg="1" alt="" >
+
+        <span class="vertical-align"></span>
+      </span>
+    </span>
+  </span>
+</span>
+        <span class="display-name  no-count">
+          <span>
+            __TITLE__
+          </span>
+        </span>
+    </span>
+  </a>
+
+      <div class="appbar-guide-notification guide-item-insertion-notification" role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" aria-label="Subscription added">__NOTIFICATION_OVERLAY_MESSAGE__</span></span></div>
+  </li>
+
+      -->
+    </div>
+
+  </div>
+
+</div><div class="alerts-wrapper"><div id="alerts" class="content-alignment">  
+</div></div><div id="header">  
+</div><div id="player" class="  off-screen  " role="complementary"><div id="theater-background" class="player-height"></div>  <div id="player-mole-container">
+    <div id="player-unavailable" class="  hid  ">
+      
+    </div>
+
+    <div id="player-api" class="player-width player-height off-screen-target player-api" tabIndex="-1"></div>
+        <script >if (window.ytcsi) {window.ytcsi.tick("cfg", null, '');}</script>
+    <script >var ytplayer = ytplayer || {};ytplayer.config = {"attrs":{"id":"movie_player"},"params":{"allowscriptaccess":"always","bgcolor":"#000000","allowfullscreen":"true"},"sts":17616,"url":"","html5":true,"args":{"innertube_api_key":"AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8","is_html5_mobile_device":false,"gapi_hint_params":"m;\/_\/scs\/abc-static\/_\/js\/k=gapi.gapi.en.qJZuTTuHcJE.O\/m=__features__\/am=AAE\/rt=j\/d=1\/rs=AHpOoo8glyl83aQK4S9K5v-KraVNbM7RrQ","fexp":"23704846,23708904,23708906,23708910,23710476,23712544,23713711,23716256,23716972,23717171,23721898,23723208,23723618,23724025,23724080,23724331,23724687,23728315,23729689,23730774,23730902,23731309,23731442,23731645,23731993,23733064,23733447,23733751,23734387,23734699,9422596,9424416,9441149,9449243,9467242,9471239,9477113,9485000,9487204","c":"WEB","innertube_context_client_version":"1.20180329","autoplay":"0","hl":"en_US","ssl":"1","enablejsapi":"1","innertube_api_version":"v1","apiary_host":"","xhr_apiary_host":"youtubei.youtube.com","host_language":"en","cr":"SG","player_error_log_fraction":"1.0","external_play_video":"1","apiary_host_firstparty":"","fflags":"html5_error_reload_cooldown_ms=30000\u0026html5_suspended_state=true\u0026html5_live_4k_more_buffer=true\u0026enable_afv_div_reset_in_kevlar=true\u0026html5_sticky_reduces_discount_by=0.0\u0026enable_prefetch_for_postrolls=true\u0026html5_dont_predict_end_time_in_past=true\u0026html5_check_all_slices_for_emsg=true\u0026html5_serverside_call_server_on_biscotti_timeout=true\u0026forced_brand_precap_duration_ms=2000\u0026html5_subsegment_readahead_min_buffer_health_secs=0.25\u0026html5_hls_initial_bitrate=0\u0026html5_max_buffer_duration=120\u0026html5_default_ad_gain=0.5\u0026html5_player_autonav_logging=true\u0026call_release_video_in_bulleit=true\u0026fast_autonav_in_background=true\u0026sdk_ad_prefetch_time_seconds=-1\u0026variable_load_timeout_ms=0\u0026html5_enable_embedded_player_visibility_signals=true\u0026html5_request_size_max_secs=31\u0026html5_mse_refactor=true\u0026low_engagement_player_quality_cap=360\u0026html5_preload_media=true\u0026html5_use_has_subfragmented_fmp4=true\u0026html5_ignore_bad_bitrates=true\u0026html5_expire_preloaded_players=true\u0026html5_ad_no_buffer_abort_after_skippable=true\u0026web_player_api_logging_fraction=0.01\u0026html5_qoe_post=true\u0026set_interstitial_start_button=true\u0026playready_on_borg=true\u0026html5_disable_move_pssh_to_moov=true\u0026html5_new_autoplay_redux=true\u0026html5_disable_urgent_upgrade_for_quality=true\u0026html5_streaming_xhr_optimize_lengthless_mp4=true\u0026player_ytms_watch_video=true\u0026html5_suspend_manifest_on_pause=true\u0026html5_request_sizing_multiplier=0.8\u0026html5_variability_full_discount_thresh=3.0\u0026html5_live_pin_to_tail=true\u0026allow_midrolls_on_watch_resume_in_bulleit=true\u0026html5_disable_webgl_antialias=true\u0026mweb_playsinline_webview=true\u0026html5_ultra_low_latency_streaming_responses=true\u0026html5_mweb_client_cap=true\u0026postroll_notify_time_seconds=5\u0026html5_throttle_rate=0.0\u0026html5_default_quality_cap=0\u0026html5_mse_retry=true\u0026live_fresca_v2=true\u0026html5_progressive_signature_reload=true\u0026html5_minimum_readahead_seconds=0.0\u0026html5_max_av_sync_drift=50\u0026html5_min_startup_smooth_target=10.0\u0026fix_gpt_pos_params=true\u0026html5_msi_error_fallback=true\u0026use_new_style=true\u0026use_refreshed_overlay_buttons=true\u0026html5_live_abr_head_miss_fraction=0.0\u0026uniplayer_dbp=true\u0026html5_disable_complete_segments=true\u0026html5_license_constraint_delay=5000\u0026html5_min_readbehind_secs=0\u0026html5_adunit_from_adformat=true\u0026send_html5_api_stats_ads_abandon=true\u0026show_interstitial_white=true\u0026html5_incremental_parser_buffer_extra_bytes=16384\u0026dynamic_ad_break_seek_threshold_sec=0\u0026html5_disable_preserve_reference=true\u0026html5_streaming_xhr_buffer_mdat=true\u0026show_interstitial_for_3s=true\u0026html5_hfr_quality_cap=0\u0026html5_min_buffer_to_resume=6\u0026html5_sticky_disables_variability=true\u0026html5_subsegment_readahead_tail_margin_secs=0.2\u0026flex_theater_mode=true\u0026html5_jumbo_ull_subsegment_readahead_target=1.3\u0026html5_readahead_ratelimit=3000\u0026enable_active_view_presence_data_collection=true\u0026html5_live_disable_dg_pacing=true\u0026html5_get_video_info_promiseajax=true\u0026html5_stop_video_in_cancel_playback=true\u0026desktop_cleanup_companion_on_instream_begin=true\u0026dash_manifest_version=5\u0026html5_webgl_hide_video_element=true\u0026html5_local_max_byterate_lookahead=15\u0026vmap_enabled_living_room=true\u0026html5_request_size_min_secs=0.0\u0026html5_connect_timeout_secs=7.0\u0026html5_nnr_downgrade_adjacency=true\u0026html5_max_buffer_health_for_downgrade=15\u0026use_forced_linebreak_preskip_text=true\u0026disable_client_side_midroll_freq_capping=true\u0026web_player_edge_autohide_killswitch2=true\u0026html5_incremental_parser_buffer_duration_secs=1.5\u0026fixed_padding_skip_button=true\u0026show_countdown_on_bumper=true\u0026html5_mobile_perf_cap_240=true\u0026allow_live_autoplay=true\u0026persist_text_on_preview_button=true\u0026ad_video_end_renderer_duration_milliseconds=7000\u0026html5_deadzone_multiplier=1.0\u0026html5_no_shadow_env_data_redux=true\u0026html5_subsegment_readahead_controlled_by_buffer_health=true\u0026ad_duration_threshold_for_showing_endcap_seconds=15\u0026segment_volume_reporting=true\u0026enable_bulleit_lidar_integration=true\u0026html5_subsegment_readahead_load_speed_check_interval=0.5\u0026show_thumbnail_on_standard=true\u0026html5_manifestless_no_redundant_seek_to_head=true\u0026html5_resume_polls=true\u0026html5_live_ultra_low_latency_bandwidth_window=0.0\u0026html5_variability_discount=0.5\u0026html5_aspect_from_adaptive_format=true\u0026html5_new_fallback=true\u0026html5_prefer_server_bwe3=true\u0026html5_drop_large_gvi=true\u0026html5_strip_emsg=true\u0026stop_using_ima_sdk_gpt_request_activity=true\u0026html5_manifestless_captions=true\u0026html5_post_interrupt_readahead=20\u0026html5_remove_pause=false\u0026hide_preskip=true\u0026mweb_cougar=true\u0026king_crimson_player_redux=true\u0026mweb_playsinline=true\u0026player_unified_fullscreen_transitions=true\u0026safari_show_cued=true\u0026web_player_disable_flash_playerproxy=true\u0026html5_background_quality_cap=360\u0026html5_elbow_tracking_tweaks=true\u0026use_fast_fade_in_0s=true\u0026safari_enable_spherical=true\u0026mweb_muted_autoplay_animation=shrink\u0026html5_max_readahead_bandwidth_cap=0\u0026set_interstitial_advertisers_question_text=true\u0026html5_parse_inline_fallback_host=true\u0026www_for_videostats=true\u0026html5_enable_mesh_projection=true\u0026playready_first_play_expiration=-1\u0026html5_qoe_intercept=\u0026html5_drm_generate_request_delay=0\u0026html5_report_conn=true\u0026html5_ignore_suggestedQuality=true\u0026lightweight_watch_video_swf=true\u0026html5_live_low_latency_bandwidth_window=0.0\u0026html5_video_tbd_min_kb=0\u0026html5_incremental_parser_coalesce_slice_buffers=true\u0026bulleit_get_midroll_info_timeout_ms=2000\u0026dynamic_ad_break_pause_threshold_sec=0\u0026html5_bandwidth_window_size=0\u0026midroll_notify_time_seconds=5\u0026html5_widevine_robustness_strings=true\u0026live_chunk_readahead=3\u0026html5_tight_max_buffer_allowed_impaired_time=0.0\u0026html5_repredict_interval_secs=0.0\u0026html5_subsegment_readahead_target_buffer_health_secs=0.5\u0026html5_pipeline_manifestless=true\u0026html5_serverside_biscotti_id_wait_ms=1000\u0026html5_manifestless_accurate_sliceinfo=true\u0026html5_enable_bandwidth_estimation_type=true\u0026use_html5_player_event_timeout=true\u0026player_external_control_on_classic_desktop=true\u0026html5_get_video_info_timeout_ms=30000\u0026html5_defer_background_errors=true\u0026android_max_reloads_on_expired_stream_load=0\u0026max_resolution_for_white_noise=360\u0026tvhtml5_background_su=true\u0026html5_min_readbehind_cap_secs=0\u0026html5_suspend_loader=true\u0026mweb_cougar_ads_backend=true\u0026html5_ignore_public_setPlaybackQuality=true\u0026html5_live_only_disable_loader=true\u0026html5_variability_no_discount_thresh=1.0\u0026html5_reattach_resource_after_timeout_limit=0\u0026html5_platform_minimum_readahead_seconds=0.0\u0026sdk_wrapper_levels_allowed=0\u0026html5_serverside_call_server_on_biscotti_error=true\u0026html5_spherical_bicubic_mode=1\u0026html5_use_adaptive_live_readahead=true\u0026html5_maximum_readahead_seconds=0.0\u0026website_actions_throttle_percentage=1.0\u0026mweb_autonav=true\u0026html5_subsegment_readahead_min_load_speed=1.5\u0026html5_stale_dash_manifest_retry_factor=1.0\u0026html5_pipeline_ultra_low_latency=true\u0026use_new_skip_icon=true\u0026html5_min_secs_between_format_selections=8.0\u0026html5_background_cap_idle_secs=60\u0026youtubei_for_web=true\u0026disable_new_pause_state3=true\u0026web_player_tabindex_killswitch=true\u0026html5_fludd_suspend=true\u0026html5_live_probe_primary_host=true\u0026report_webglfps_logging=true\u0026html5_vp9_live_blacklist_edge=true\u0026html5_timeupdate_readystate_check=true\u0026html5_clear_by_reattaching=true\u0026html5_reload_on_unparseable=true\u0026use_survey_skip_in_0s=true\u0026html5_subsegment_readahead_timeout_secs=2.0\u0026html5_subsegment_readahead_always_delay_appends=true\u0026html5_use_equirect_mesh=true\u0026player_destroy_old_version=true\u0026html5_disable_non_contiguous=true\u0026html5_qoe_unstarted_in_initialization=true\u0026html5_streaming_xhr_progress_includes_latest=true\u0026html5_el_migration=true\u0026kevlar_allow_multistep_video_init=true\u0026html5_min_upgrade_health=0\u0026enable_live_state_auth=true\u0026interaction_click_on_gel_web=true\u0026html5_throttle_burst_secs=15.0\u0026html5_enable_360_api=true\u0026mweb_cougar_big_controls=true\u0026legacy_autoplay_flag=true\u0026vss_dni_delayping=0\u0026html5_live_abr_repredict_fraction=0.0\u0026html5_ad_stats_bearer=true\u0026show_thumbnail_behind_ypc_offer_module=true\u0026live_readahead_seconds_multiplier=0.8\u0026html5_restrict_streaming_xhr_on_sqless_requests=true\u0026html5_allowable_liveness_drift_chunks=2\u0026mweb_muted_autoplay=true\u0026html5_vp9_live_whitelist=true\u0026html5_disable_audio_slicing=true\u0026skip_restore_on_abandon_in_bulleit=true\u0026html5_subsegment_readahead_min_buffer_health_secs_on_timeout=0.1\u0026html5_live_normal_latency_bandwidth_window=0.0\u0026html5_start_off_live=0\u0026html5_composite_stall=true\u0026html5_quality_cap_min_age_secs=0\u0026html5_subsegment_readahead_seek_latency_fudge=0.5\u0026autoplay_time=8000\u0026html5_nnr_downgrade_count=4\u0026html5_adjust_effective_request_size=true\u0026html5_subsegment_readahead_progress_timeout_fraction=0.8\u0026html5_pause_video_fix=true\u0026spacecast_uniplayer_decorate_manifest=true\u0026html5_max_headm_for_streaming_xhr=0\u0026mpu_visible_threshold_count=2\u0026doubleclick_gpt_retagging=true\u0026html5_tight_max_buffer_allowed_bandwidth_stddevs=0.0","cver":"1.20180329"},"assets":{"js":"\/yts\/jsbin\/player-vflI0cIzU\/en_US\/base.js","css":"\/yts\/cssbin\/player-vflxUKlL0\/www-player.css"}};ytplayer.load = function() {yt.player.Application.create("player-api", ytplayer.config);ytplayer.config.loaded = true;};</script>
+
+
+    <div id="watch-queue-mole" class="video-mole mole-collapsed hid"><div id="watch-queue" class="watch-playlist player-height"><div class="main-content"><div class="watch-queue-header"><div class="watch-queue-info"><div class="watch-queue-info-icon"><span class="tv-queue-list-icon yt-sprite"></span></div><h3 class="watch-queue-title">Watch Queue</h3><h3 class="tv-queue-title">Queue</h3><span class="tv-queue-details"></span></div><div class="watch-queue-control-bar control-bar-button"><div class="watch-queue-mole-info"><div class="watch-queue-control-bar-icon"><span class="watch-queue-icon yt-sprite"></span></div><div class="watch-queue-title-container"><span class="watch-queue-count"></span><span class="watch-queue-title">Watch Queue</span><span class="tv-queue-title">Queue</span></div></div>  <span class="dark-overflow-action-menu">
+    
+    
+    <button class="flip control-bar-button yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" onclick=";return false;" aria-label="Actions for the queue" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid" role="menu" aria-haspopup="true"><li role="menuitem"><span class="watch-queue-menu-choice overflow-menu-choice yt-uix-button-menu-item" data-action="remove-all" onclick=";return false;" >Remove all</span></li><li role="menuitem"><span class="watch-queue-menu-choice overflow-menu-choice yt-uix-button-menu-item" data-action="disconnect" onclick=";return false;" >Disconnect</span></li></ul></button>
+  </span>
+  <div class="watch-queue-controls">
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button prev-watch-queue-button yt-uix-button-opacity yt-uix-tooltip yt-uix-tooltip" type="button" onclick=";return false;" title="Previous video"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-prev yt-sprite"></span></span></button>
+
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button play-watch-queue-button yt-uix-button-opacity yt-uix-tooltip yt-uix-tooltip" type="button" onclick=";return false;" title="Play"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-play yt-sprite"></span></span></button>
+
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button pause-watch-queue-button yt-uix-button-opacity yt-uix-tooltip hid yt-uix-tooltip" type="button" onclick=";return false;" title="Pause"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-pause yt-sprite"></span></span></button>
+
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button next-watch-queue-button yt-uix-button-opacity yt-uix-tooltip yt-uix-tooltip" type="button" onclick=";return false;" title="Next video"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-next yt-sprite"></span></span></button>
+  </div>
+</div><div class="autoplay-dismiss-bar fade-out"><span class="autoplay-dismiss-title-label">The next video is starting</span><span><button class="yt-uix-button yt-uix-button-size-default autoplay-dismiss-button yt-uix-tooltip" type="button" onclick=";return false;" title="stop"><span class="yt-uix-button-content">stop</span></button></span></div></div><div class="watch-queue-items-container yt-scrollbar-dark yt-scrollbar"><div class="yt-uix-scroller playlist-videos-list"><ol class="watch-queue-items-list" data-scroll-action="yt.www.watchqueue.loadThumbnails">  <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Loading icon"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+</ol><div class="autoplay-control-container yt-uix-scroller-scroll-unit hid">  <div class="autoplay-control-bar">
+    <label class="autoplay-label" for=autoplay-toggle-id></label>
+    <label class="yt-uix-form-input-checkbox-container yt-uix-form-input-container yt-uix-form-input-paper-toggle-container  "><input class="yt-uix-form-input-checkbox" type="checkbox" id="autoplay-toggle-id"/><div class="yt-uix-form-input-paper-toggle-bg yt-uix-form-input-paper-toggle-bar"></div><div class="yt-uix-form-input-paper-toggle-bg yt-uix-form-input-paper-toggle-button"></div></label>
+  </div>
+</div><div class="up-next-item-container hid"></div></div></div></div>  <div class="hid">
+    <div id="watch-queue-title-msg">
+Watch Queue
+    </div>
+
+    <div id="tv-queue-title-msg">Queue</div>
+
+    <div id="watch-queue-count-msg">
+__count__/__total__
+    </div>
+
+    <div id="watch-queue-loading-template">
+      <!--
+          <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Loading icon"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+      -->
+    </div>
+  </div>
+</div></div>
+
+    <div id="player-playlist" class="  hid  ">
+      
+    </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div><div id="content" class="  content-alignment" role="main">
+
+
+  <div class="branded-page-v2-container branded-page-base-bold-titles branded-page-v2-container-flex-width" >
+
+    <div class="branded-page-v2-col-container">
+      <div class="branded-page-v2-col-container-inner">
+        <div class="branded-page-v2-primary-col">
+          <div class="   yt-card  clearfix">
+                <div class="branded-page-v2-primary-col-header-container branded-page-v2-primary-column-content">
+      
+    </div>
+  <div class="branded-page-v2-body branded-page-v2-primary-column-content" id="">
+        
+        <noscript>
+      <div class="yt-alert yt-alert-default yt-alert-error  ">  <div class="yt-alert-icon">
+    <span class="icon master-sprite yt-sprite"></span>
+  </div>
+<div class="yt-alert-content" role="alert">    <div class="yt-alert-message" tabindex="0">
+            Hello, you seem to have JavaScript turned off. Please enable it to see search results properly.
+    </div>
+</div><div class="yt-alert-buttons"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-close close yt-uix-close" type="button" onclick=";return false;" aria-label="Close" data-close-parent-class="yt-alert"><span class="yt-uix-button-content">Close</span></button></div></div>
+
+  </noscript>
+
+
+  <div id="results">
+    
+
+
+      
+<ol id="section-list-102654" class="section-list">
+<li class="branded-page-v2-subnav-container branded-page-gutter-padding"><div class="search-header yt-uix-expander yt-uix-expander-collapsed"><div class="filter-top"><div class="filter-bar-container"><div class="filter-button-container"><button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default filter-button yt-uix-expander-head" type="button" onclick=";return false;" aria-label="Search filters" data-button-menu-id="some-nonexistent-menu" data-button-action="" data-button-toggle="true"><span class="yt-uix-button-content">Filters</span><span class="yt-uix-button-arrow yt-sprite"></span></button></div><div class="filter-crumb-spacer"></div><p class="num-results first-focus">About 794,000 results</p></div></div><div id="filter-dropdown" class="yt-uix-expander-body"><div class="filter-col"><h4 class="filter-col-title">Upload date</h4><ul><li><a href="/results?search_query=shahrukh+khan+playlist&amp;sp=EgIIAQ%253D%253D" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CD4Qk3UYACITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Search for Last hour" aria-label="Search for Last hour"><span class="filter-text filter-ghost">Last hour</span></a></li><li><a href="/results?search_query=shahrukh+khan+playlist&amp;sp=EgIIAg%253D%253D" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CD0Qk3UYASITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Search for Today" aria-label="Search for Today"><span class="filter-text filter-ghost">Today</span></a></li><li><a href="/results?search_query=shahrukh+khan+playlist&amp;sp=EgIIAw%253D%253D" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDwQk3UYAiITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Search for This week" aria-label="Search for This week"><span class="filter-text filter-ghost">This week</span></a></li><li><a href="/results?search_query=shahrukh+khan+playlist&amp;sp=EgIIBA%253D%253D" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDsQk3UYAyITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Search for This month" aria-label="Search for This month"><span class="filter-text filter-ghost">This month</span></a></li><li><a href="/results?search_query=shahrukh+khan+playlist&amp;sp=EgIIBQ%253D%253D" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDoQk3UYBCITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Search for This year" aria-label="Search for This year"><span class="filter-text filter-ghost">This year</span></a></li></ul></div><div class="filter-col"><h4 class="filter-col-title">Type</h4><ul><li><a href="/results?search_query=shahrukh+khan+playlist&amp;sp=EgIQAQ%253D%253D" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDgQk3UYACITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Search for Video" aria-label="Search for Video"><span class="filter-text filter-ghost">Video</span></a></li><li><a href="/results?search_query=shahrukh+khan+playlist&amp;sp=EgIQAg%253D%253D" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDcQk3UYASITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Search for Channel" aria-label="Search for Channel"><span class="filter-text filter-ghost">Channel</span></a></li><li><a href="/results?search_query=shahrukh+khan+playlist&amp;sp=EgIQAw%253D%253D" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDYQk3UYAiITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Search for Playlist" aria-label="Search for Playlist"><span class="filter-text filter-ghost">Playlist</span></a></li><li><a href="/results?search_query=shahrukh+khan+playlist&amp;sp=EgIQBA%253D%253D" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDUQk3UYAyITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Search for Movie" aria-label="Search for Movie"><span class="filter-text filter-ghost">Movie</span></a></li><li><a href="/results?search_query=shahrukh+khan+playlist&amp;sp=EgIQBQ%253D%253D" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDQQk3UYBCITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Search for Show" aria-label="Search for Show"><span class="filter-text filter-ghost">Show</span></a></li></ul></div><div class="filter-col"><h4 class="filter-col-title">Duration</h4><ul><li><a href="/results?search_query=shahrukh+khan+playlist&amp;sp=EgIYAQ%253D%253D" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDIQk3UYACITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Search for Short (&lt; 4 minutes)" aria-label="Search for Short (&lt; 4 minutes)"><span class="filter-text filter-ghost">Short (&lt; 4 minutes)</span></a></li><li><a href="/results?search_query=shahrukh+khan+playlist&amp;sp=EgIYAg%253D%253D" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CDEQk3UYASITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Search for Long (&gt; 20 minutes)" aria-label="Search for Long (&gt; 20 minutes)"><span class="filter-text filter-ghost">Long (&gt; 20 minutes)</span></a></li></ul></div><div class="filter-col"><h4 class="filter-col-title">Features</h4><ul><li><a href="/results?search_query=shahrukh+khan+playlist&amp;sp=EgJwAQ%253D%253D" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CC8Qk3UYACITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Search for 4K" aria-label="Search for 4K"><span class="filter-text filter-ghost">4K</span></a></li><li><a href="/results?search_query=shahrukh+khan+playlist&amp;sp=EgIgAQ%253D%253D" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CC4Qk3UYASITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Search for HD" aria-label="Search for HD"><span class="filter-text filter-ghost">HD</span></a></li><li><a href="/results?search_query=shahrukh+khan+playlist&amp;sp=EgPIAQE%253D" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CC0Qk3UYAiITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Search for HDR" aria-label="Search for HDR"><span class="filter-text filter-ghost">HDR</span></a></li><li><a href="/results?search_query=shahrukh+khan+playlist&amp;sp=EgIoAQ%253D%253D" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CCwQk3UYAyITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Search for Subtitles/CC" aria-label="Search for Subtitles/CC"><span class="filter-text filter-ghost">Subtitles/CC</span></a></li><li><a href="/results?search_query=shahrukh+khan+playlist&amp;sp=EgIwAQ%253D%253D" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CCsQk3UYBCITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Search for Creative Commons" aria-label="Search for Creative Commons"><span class="filter-text filter-ghost">Creative Commons</span></a></li><li><a href="/results?search_query=shahrukh+khan+playlist&amp;sp=EgI4AQ%253D%253D" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CCoQk3UYBSITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Search for 3D" aria-label="Search for 3D"><span class="filter-text filter-ghost">3D</span></a></li><li><a href="/results?search_query=shahrukh+khan+playlist&amp;sp=EgJAAQ%253D%253D" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CCkQk3UYBiITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Search for Live" aria-label="Search for Live"><span class="filter-text filter-ghost">Live</span></a></li><li><a href="/results?search_query=shahrukh+khan+playlist&amp;sp=EgJIAQ%253D%253D" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CCgQk3UYByITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Search for Purchased" aria-label="Search for Purchased"><span class="filter-text filter-ghost">Purchased</span></a></li><li><a href="/results?search_query=shahrukh+khan+playlist&amp;sp=EgJ4AQ%253D%253D" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CCcQk3UYCCITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Search for 360°" aria-label="Search for 360°"><span class="filter-text filter-ghost">360°</span></a></li><li><a href="/results?search_query=shahrukh+khan+playlist&amp;sp=EgO4AQE%253D" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CCYQk3UYCSITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Search for Location" aria-label="Search for Location"><span class="filter-text filter-ghost">Location</span></a></li></ul></div><div class="filter-col"><h4 class="filter-col-title">Sort by</h4><ul><li><span class="filter filter-selected filter-sort"  title="Sort by relevance"><span class="filter-text"  aria-label="Sort by relevance">Relevance</span></span></li><li><a href="/results?search_query=shahrukh+khan+playlist&amp;sp=CAI%253D" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CCMQk3UYASITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Sort by upload date" aria-label="Sort by upload date"><span class="filter-text filter-ghost">Upload date</span></a></li><li><a href="/results?search_query=shahrukh+khan+playlist&amp;sp=CAM%253D" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CCIQk3UYAiITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Sort by view count" aria-label="Sort by view count"><span class="filter-text filter-ghost">View count</span></a></li><li><a href="/results?search_query=shahrukh+khan+playlist&amp;sp=CAE%253D" class="filter yt-uix-sessionlink      spf-link " data-sessionlink="itct=CCEQk3UYAyITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Sort by rating" aria-label="Sort by rating"><span class="filter-text filter-ghost">Rating</span></a></li></ul></div></div></div></li>
+<li>
+<ol id="item-section-595914" class="item-section">
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix" data-context-item-id="R3PspP7-lao" data-visibility-tracking="CGcQ3DAYACITCKHWmersmNoCFUO9aAodpe0DrCj0JECqq_r3z5T7uUc="><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true"  href="/watch?v=R3PspP7-lao" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CGcQ3DAYACITCKHWmersmNoCFUO9aAodpe0DrCj0JFIWc2hhaHJ1a2gga2hhbiBwbGF5bGlzdA" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img src="https://i.ytimg.com/vi/R3PspP7-lao/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLBCJgrm5pseX2ljf58-n5A2w0Bgsw" height="138" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" width="246" data-ytimg="1" alt="" >
+<span class="video-time" aria-hidden="true">1:07:49</span></span></div></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-expanded="false" onclick=";return false;" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="R3PspP7-lao"><span class="addto-watch-queue-menu-text">Play next</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="R3PspP7-lao"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Watch later" data-video-ids="R3PspP7-lao" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Queue" data-video-ids="R3PspP7-lao" data-style="tv-queue"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=R3PspP7-lao" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CGcQ3DAYACITCKHWmersmNoCFUO9aAodpe0DrCj0JFIWc2hhaHJ1a2gga2hhbiBwbGF5bGlzdA"  title="Best of Shahrukh Khan Songs - Audio Jukebox | Full Songs" aria-describedby="description-id-694139" rel="spf-prefetch" dir="ltr">Best of Shahrukh Khan Songs - Audio Jukebox | Full Songs</a><span class="accessible-description" id="description-id-694139"> - Duration: 1:07:49.</span></h3><div class="yt-lockup-byline "><a href="/user/sonymusicindiaSME" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CGcQ3DAYACITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >Sony Music India</a>&nbsp;<span class="yt-uix-tooltip yt-channel-title-icon-verified yt-sprite" title="Verified"></span></div><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li>2 years ago</li><li>5,451,176 views</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">Catch all the super-hit songs of <b>Shahrukh Khan</b> in this 60 minutes long jukebox! <b>Shahrukh Khan</b>, the Badshah of Bollywood, is, </div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-playlist vve-check clearfix" data-visibility-tracking="CGYQ2zAYASITCKHWmersmNoCFUO9aAodpe0DrCj0JA=="><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail yt-pl-thumb" style="width:246px" aria-hidden="true"><a href="/watch?v=95I5VaR7GeU&amp;list=PLMRKdK25AuPXtFUNJGm_WV87BlhjIS2sK" class="yt-pl-thumb-link yt-uix-sessionlink      spf-link " data-sessionlink="itct=CGYQ2zAYASITCKHWmersmNoCFUO9aAodpe0DrCj0JA" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img src="https://i.ytimg.com/vi/95I5VaR7GeU/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLAeckpU3OgM8NH67-db-IVvpXpQvA" height="138" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" width="246" data-ytimg="1" alt="" >
+</span></div><div class="sidebar"><span class="yt-pl-sidebar-content yt-valign"><span class="yt-valign-container"><span class="formatted-video-count-label"><b>403</b> videos</span><span class="yt-pl-icon yt-pl-icon-reg yt-sprite"></span></span></span></div><div class="yt-pl-thumb-overlay"><span class="yt-pl-thumb-overlay-content"><span class="play-icon yt-sprite"></span><span class="yt-pl-thumb-overlay-text">Play all</span></span></div><span class="yt-pl-watch-queue-overlay">  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-expanded="false" onclick=";return false;" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="95I5VaR7GeU" data-list-id="PLMRKdK25AuPXtFUNJGm_WV87BlhjIS2sK"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+  </span>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Queue" data-video-ids="95I5VaR7GeU" data-list-id="PLMRKdK25AuPXtFUNJGm_WV87BlhjIS2sK" data-style="tv-queue"></button>
+</span></a></div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=95I5VaR7GeU&amp;list=PLMRKdK25AuPXtFUNJGm_WV87BlhjIS2sK" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CGYQ2zAYASITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Shahrukh Khan Best Songs - SRK romantic hits #Shahrukh Khan All Time Hits #SRK Songs" aria-describedby="description-id-929386" dir="ltr">Shahrukh Khan Best Songs - SRK romantic hits #Shahrukh Khan All Time Hits #SRK Songs</a><span class="accessible-description" id="description-id-929386"> - Playlist</span></h3><div class="yt-lockup-byline "><a href="/channel/UCleb_PtDwsXZ4Xu-h1Od2dw" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CGYQ2zAYASITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >Bollywood&#39;s Most Viewed on Youtube</a></div><ol class="yt-lockup-meta yt-lockup-playlist-items"><li class="yt-lockup-playlist-item clearfix"><span class="yt-lockup-playlist-item-length"><span aria-label="2 minutes, 41 seconds">2:41</span></span><a href="/watch?v=95I5VaR7GeU&amp;list=PLMRKdK25AuPXtFUNJGm_WV87BlhjIS2sK" class="yt-lockup-playlist-item-title yt-uix-sessionlink      spf-link " data-sessionlink="itct=CGYQ2zAYASITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  dir="ltr">Laila Main Laila | Raees | Shah Rukh Khan | Sunny Leone | Pawni Pandey | Ram Sampath | New Song 2017</a></li><li class="yt-lockup-playlist-item clearfix"><span class="yt-lockup-playlist-item-length"><span aria-label="4 minutes, 48 seconds">4:48</span></span><a href="/watch?v=AEIVhBS6baE&amp;list=PLMRKdK25AuPXtFUNJGm_WV87BlhjIS2sK" class="yt-lockup-playlist-item-title yt-uix-sessionlink      spf-link " data-sessionlink="itct=CGYQ2zAYASITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  dir="ltr">Gerua - Shah Rukh Khan | Kajol | Dilwale | Pritam | SRK Kajol Official New Song Video 2015</a></li></ol><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li><a href="/playlist?list=PLMRKdK25AuPXtFUNJGm_WV87BlhjIS2sK" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CGYQ2zAYASITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >View full playlist (403 videos)</a></li></ul></div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix" data-context-item-id="acWcXqR52FE" data-visibility-tracking="CGUQ3DAYAiITCKHWmersmNoCFUO9aAodpe0DrCj0JEDRsOej6ovn4mk="><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true"  href="/watch?v=acWcXqR52FE" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CGUQ3DAYAiITCKHWmersmNoCFUO9aAodpe0DrCj0JFIWc2hhaHJ1a2gga2hhbiBwbGF5bGlzdA" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img src="https://i.ytimg.com/vi/acWcXqR52FE/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLCFClOPyhNwAZ6MEiQrFetmWTPR3A" height="138" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" width="246" data-ytimg="1" alt="" >
+<span class="video-time" aria-hidden="true">1:52:26</span></span></div></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-expanded="false" onclick=";return false;" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="acWcXqR52FE"><span class="addto-watch-queue-menu-text">Play next</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="acWcXqR52FE"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Watch later" data-video-ids="acWcXqR52FE" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Queue" data-video-ids="acWcXqR52FE" data-style="tv-queue"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=acWcXqR52FE" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CGUQ3DAYAiITCKHWmersmNoCFUO9aAodpe0DrCj0JFIWc2hhaHJ1a2gga2hhbiBwbGF5bGlzdA"  title="Shah Rukh Khan Best Songs 2017 | Evergreen Top Songs of Shahrukh Khan Jukebox" aria-describedby="description-id-17836" rel="spf-prefetch" dir="ltr">Shah Rukh Khan Best Songs 2017 | Evergreen Top Songs of Shahrukh Khan Jukebox</a><span class="accessible-description" id="description-id-17836"> - Duration: 1:52:26.</span></h3><div class="yt-lockup-byline "><a href="/channel/UCr_pADpnsYU0vstpsKhroCA" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CGUQ3DAYAiITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >Bollywood Music</a>&nbsp;<span class="yt-uix-tooltip yt-channel-title-icon-verified yt-sprite" title="Verified"></span></div><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li>8 months ago</li><li>3,216,903 views</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">1) MUST WATCH Our Latest Video, You won&#39;t Regret! - <a href="https://bit.ly/2J47YUI" target="_blank" title="https://bit.ly/2J47YUI" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">https://bit.ly/2J47YUI</a> 2) View Lyrics OR Download - <a href="http://ytstation.com/" target="_blank" title="http://ytstation.com/" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">http://ytstation.com/</a><b>shah-</b></div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix" data-context-item-id="KKlZczx_eWo" data-visibility-tracking="CGQQ3DAYAyITCKHWmersmNoCFUO9aAodpe0DrCj0JEDq8v3js67W1Cg="><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true"  href="/watch?v=KKlZczx_eWo" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CGQQ3DAYAyITCKHWmersmNoCFUO9aAodpe0DrCj0JFIWc2hhaHJ1a2gga2hhbiBwbGF5bGlzdA" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img src="https://i.ytimg.com/vi/KKlZczx_eWo/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLBmjLeOBBrK9jPQSzHN6YTXjSXqwg" height="138" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" width="246" data-ytimg="1" alt="" >
+<span class="video-time" aria-hidden="true">1:48:33</span></span></div></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-expanded="false" onclick=";return false;" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="KKlZczx_eWo"><span class="addto-watch-queue-menu-text">Play next</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="KKlZczx_eWo"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Watch later" data-video-ids="KKlZczx_eWo" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Queue" data-video-ids="KKlZczx_eWo" data-style="tv-queue"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=KKlZczx_eWo" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CGQQ3DAYAyITCKHWmersmNoCFUO9aAodpe0DrCj0JFIWc2hhaHJ1a2gga2hhbiBwbGF5bGlzdA"  title="Non stop Hindi songs BEST OF SHAHRUKH KHAN | BEST SONGS OF SHARUKH KHAN" aria-describedby="description-id-862058" rel="spf-prefetch" dir="ltr">Non stop Hindi songs BEST OF SHAHRUKH KHAN | BEST SONGS OF SHARUKH KHAN</a><span class="accessible-description" id="description-id-862058"> - Duration: 1:48:33.</span></h3><div class="yt-lockup-byline "><a href="/channel/UCi-AyJRKEXsYMKBuHjmgRaw" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CGQQ3DAYAyITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >BOLLYWOOD HITS</a></div><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li>2 years ago</li><li>25,270,534 views</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">Best songs of sharukh <b>khan</b> This is one of the best songs of sharukh <b>khan</b> non stop songs.</div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-playlist vve-check clearfix" data-visibility-tracking="CGMQ2zAYBCITCKHWmersmNoCFUO9aAodpe0DrCj0JA=="><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail yt-pl-thumb" style="width:246px" aria-hidden="true"><a href="/watch?v=IBvg3WeqP1U&amp;list=PLJk8wN0DZO__PkKVDSTnOaA3uTNQppIMX" class="yt-pl-thumb-link yt-uix-sessionlink      spf-link " data-sessionlink="itct=CGMQ2zAYBCITCKHWmersmNoCFUO9aAodpe0DrCj0JA" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img src="https://i.ytimg.com/vi/IBvg3WeqP1U/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLBWS8rZuvtUDcIWIbfG1eEEW9CtdA" height="138" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" width="246" data-ytimg="1" alt="" >
+</span></div><div class="sidebar"><span class="yt-pl-sidebar-content yt-valign"><span class="yt-valign-container"><span class="formatted-video-count-label"><b>64</b> videos</span><span class="yt-pl-icon yt-pl-icon-reg yt-sprite"></span></span></span></div><div class="yt-pl-thumb-overlay"><span class="yt-pl-thumb-overlay-content"><span class="play-icon yt-sprite"></span><span class="yt-pl-thumb-overlay-text">Play all</span></span></div><span class="yt-pl-watch-queue-overlay">  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-expanded="false" onclick=";return false;" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="IBvg3WeqP1U" data-list-id="PLJk8wN0DZO__PkKVDSTnOaA3uTNQppIMX"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+  </span>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Queue" data-video-ids="IBvg3WeqP1U" data-list-id="PLJk8wN0DZO__PkKVDSTnOaA3uTNQppIMX" data-style="tv-queue"></button>
+</span></a></div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=IBvg3WeqP1U&amp;list=PLJk8wN0DZO__PkKVDSTnOaA3uTNQppIMX" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CGMQ2zAYBCITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Shahrukh Khan Songs&#39; Collection actualizado 2016" aria-describedby="description-id-18897" dir="ltr">Shahrukh Khan Songs&#39; Collection actualizado 2016</a><span class="accessible-description" id="description-id-18897"> - Playlist</span></h3><div class="yt-lockup-byline "><a href="/user/tureynita15" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CGMQ2zAYBCITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >reyna bravo</a></div><ol class="yt-lockup-meta yt-lockup-playlist-items"><li class="yt-lockup-playlist-item clearfix"><span class="yt-lockup-playlist-item-length"><span aria-label="6 minutes, 44 seconds">6:44</span></span><a href="/watch?v=IBvg3WeqP1U&amp;list=PLJk8wN0DZO__PkKVDSTnOaA3uTNQppIMX" class="yt-lockup-playlist-item-title yt-uix-sessionlink      spf-link " data-sessionlink="itct=CGMQ2zAYBCITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  dir="ltr">K3G - Bole Chudiyan Video | Amitabh, Shah Rukh, Kareena, Hrithik</a></li><li class="yt-lockup-playlist-item clearfix"><span class="yt-lockup-playlist-item-length"><span aria-label="5 minutes, 27 seconds">5:27</span></span><a href="/watch?v=WlWlGlvN4L4&amp;list=PLJk8wN0DZO__PkKVDSTnOaA3uTNQppIMX" class="yt-lockup-playlist-item-title yt-uix-sessionlink      spf-link " data-sessionlink="itct=CGMQ2zAYBCITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  dir="ltr">Ladki Badi Anjani Hai - Kuch Kuch Hota Hai | Shahrukh Khan | Kajol</a></li></ol><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li><a href="/playlist?list=PLJk8wN0DZO__PkKVDSTnOaA3uTNQppIMX" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CGMQ2zAYBCITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >View full playlist (64 videos)</a></li></ul></div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-playlist vve-check clearfix" data-visibility-tracking="CGIQ2zAYBSITCKHWmersmNoCFUO9aAodpe0DrCj0JA=="><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail yt-pl-thumb" style="width:246px" aria-hidden="true"><a href="/watch?v=gEeyNxjFjLU&amp;list=PLD14700005F5B1AE5" class="yt-pl-thumb-link yt-uix-sessionlink      spf-link " data-sessionlink="itct=CGIQ2zAYBSITCKHWmersmNoCFUO9aAodpe0DrCj0JA" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img src="https://i.ytimg.com/vi/gEeyNxjFjLU/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLAAvs17TF7z44EKlJTKEt6VaZPAhQ" height="138" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" width="246" data-ytimg="1" alt="" >
+</span></div><div class="sidebar"><span class="yt-pl-sidebar-content yt-valign"><span class="yt-valign-container"><span class="formatted-video-count-label"><b>59</b> videos</span><span class="yt-pl-icon yt-pl-icon-reg yt-sprite"></span></span></span></div><div class="yt-pl-thumb-overlay"><span class="yt-pl-thumb-overlay-content"><span class="play-icon yt-sprite"></span><span class="yt-pl-thumb-overlay-text">Play all</span></span></div><span class="yt-pl-watch-queue-overlay">  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-expanded="false" onclick=";return false;" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="gEeyNxjFjLU" data-list-id="PLD14700005F5B1AE5"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+  </span>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Queue" data-video-ids="gEeyNxjFjLU" data-list-id="PLD14700005F5B1AE5" data-style="tv-queue"></button>
+</span></a></div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=gEeyNxjFjLU&amp;list=PLD14700005F5B1AE5" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CGIQ2zAYBSITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Shahrukh Khan Songs&#39; Collection" aria-describedby="description-id-425541" dir="ltr">Shahrukh Khan Songs&#39; Collection</a><span class="accessible-description" id="description-id-425541"> - Playlist</span></h3><div class="yt-lockup-byline "><a href="/user/Ramanchawla89" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CGIQ2zAYBSITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >BollywoodSongs24/7</a></div><ol class="yt-lockup-meta yt-lockup-playlist-items"><li class="yt-lockup-playlist-item clearfix"><span class="yt-lockup-playlist-item-length"><span aria-label="6 minutes, 39 seconds">6:39</span></span><a href="/watch?v=gEeyNxjFjLU&amp;list=PLD14700005F5B1AE5" class="yt-lockup-playlist-item-title yt-uix-sessionlink      spf-link " data-sessionlink="itct=CGIQ2zAYBSITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  dir="ltr">Le Gayi - Dil To Pagal Hai (1997) HD 720p</a></li><li class="yt-lockup-playlist-item clearfix"><span class="yt-lockup-playlist-item-length"><span aria-label="6 minutes, 7 seconds">6:07</span></span><a href="/watch?v=ZDgiqlcExs0&amp;list=PLD14700005F5B1AE5" class="yt-lockup-playlist-item-title yt-uix-sessionlink      spf-link " data-sessionlink="itct=CGIQ2zAYBSITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  dir="ltr">Kal Ho Naa Ho Sad - Kal Ho Naa Ho (2003) 720p HD</a></li></ol><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li><a href="/playlist?list=PLD14700005F5B1AE5" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CGIQ2zAYBSITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >View full playlist (59 videos)</a></li></ul></div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-playlist vve-check clearfix" data-visibility-tracking="CGEQ2zAYBiITCKHWmersmNoCFUO9aAodpe0DrCj0JA=="><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail yt-pl-thumb" style="width:246px" aria-hidden="true"><a href="/watch?v=SjGiu3HRCkI&amp;list=PLRYDk1OwIKfJCs3BnQ4C3MrY9fUSFXBqN" class="yt-pl-thumb-link yt-uix-sessionlink      spf-link " data-sessionlink="itct=CGEQ2zAYBiITCKHWmersmNoCFUO9aAodpe0DrCj0JA" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img src="/yts/img/pixel-vfl3z5WfW.gif" height="138" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" width="246" data-thumb="https://i.ytimg.com/vi/SjGiu3HRCkI/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLD6VS_BUKNiS6czf0RSXZrO1nLobg" data-ytimg="1" alt="" >
+</span></div><div class="sidebar"><span class="yt-pl-sidebar-content yt-valign"><span class="yt-valign-container"><span class="formatted-video-count-label"><b>34</b> videos</span><span class="yt-pl-icon yt-pl-icon-reg yt-sprite"></span></span></span></div><div class="yt-pl-thumb-overlay"><span class="yt-pl-thumb-overlay-content"><span class="play-icon yt-sprite"></span><span class="yt-pl-thumb-overlay-text">Play all</span></span></div><span class="yt-pl-watch-queue-overlay">  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-expanded="false" onclick=";return false;" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="SjGiu3HRCkI" data-list-id="PLRYDk1OwIKfJCs3BnQ4C3MrY9fUSFXBqN"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+  </span>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Queue" data-video-ids="SjGiu3HRCkI" data-list-id="PLRYDk1OwIKfJCs3BnQ4C3MrY9fUSFXBqN" data-style="tv-queue"></button>
+</span></a></div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=SjGiu3HRCkI&amp;list=PLRYDk1OwIKfJCs3BnQ4C3MrY9fUSFXBqN" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CGEQ2zAYBiITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Romantic Songs of Shah Rukh Khan" aria-describedby="description-id-110811" dir="ltr">Romantic Songs of Shah Rukh Khan</a><span class="accessible-description" id="description-id-110811"> - Playlist</span></h3><div class="yt-lockup-byline "><a href="/user/ChennaiExp2013" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CGEQ2zAYBiITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >Red Chillies Entertainment</a>&nbsp;<span class="yt-uix-tooltip yt-channel-title-icon-verified yt-sprite" title="Verified"></span></div><ol class="yt-lockup-meta yt-lockup-playlist-items"><li class="yt-lockup-playlist-item clearfix"><span class="yt-lockup-playlist-item-length"><span aria-label="4 minutes, 20 seconds">4:20</span></span><a href="/watch?v=SjGiu3HRCkI&amp;list=PLRYDk1OwIKfJCs3BnQ4C3MrY9fUSFXBqN" class="yt-lockup-playlist-item-title yt-uix-sessionlink      spf-link " data-sessionlink="itct=CGEQ2zAYBiITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  dir="ltr">Deewana Main Tera Deewana | Kumar Sanu, Alka Yagnik | English Babu Desi Mem | Shah Rukh Khan</a></li><li class="yt-lockup-playlist-item clearfix"><span class="yt-lockup-playlist-item-length"><span aria-label="5 minutes, 9 seconds">5:09</span></span><a href="/watch?v=zIz1RTZxnvY&amp;list=PLRYDk1OwIKfJCs3BnQ4C3MrY9fUSFXBqN" class="yt-lockup-playlist-item-title yt-uix-sessionlink      spf-link " data-sessionlink="itct=CGEQ2zAYBiITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  dir="ltr">Ae Kash Ke Hum | HD | Full Song | Kabhi Haan Kabhi Naa | Shah Rukh Khan , Suchitra Krishnamurthy</a></li></ol><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li><a href="/playlist?list=PLRYDk1OwIKfJCs3BnQ4C3MrY9fUSFXBqN" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CGEQ2zAYBiITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >View full playlist (34 videos)</a></li></ul></div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-playlist vve-check clearfix" data-visibility-tracking="CGAQ2zAYByITCKHWmersmNoCFUO9aAodpe0DrCj0JA=="><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail yt-pl-thumb" style="width:246px" aria-hidden="true"><a href="/watch?v=7wf3yafHkgQ&amp;list=PL7F3CFEE9CDB04F18" class="yt-pl-thumb-link yt-uix-sessionlink      spf-link " data-sessionlink="itct=CGAQ2zAYByITCKHWmersmNoCFUO9aAodpe0DrCj0JA" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img src="/yts/img/pixel-vfl3z5WfW.gif" height="138" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" width="246" data-thumb="https://i.ytimg.com/vi/7wf3yafHkgQ/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLCxmAWBL5E_lGehsmXRe6Yt76tbpA" data-ytimg="1" alt="" >
+</span></div><div class="sidebar"><span class="yt-pl-sidebar-content yt-valign"><span class="yt-valign-container"><span class="formatted-video-count-label"><b>30</b> videos</span><span class="yt-pl-icon yt-pl-icon-reg yt-sprite"></span></span></span></div><div class="yt-pl-thumb-overlay"><span class="yt-pl-thumb-overlay-content"><span class="play-icon yt-sprite"></span><span class="yt-pl-thumb-overlay-text">Play all</span></span></div><span class="yt-pl-watch-queue-overlay">  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-expanded="false" onclick=";return false;" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="7wf3yafHkgQ" data-list-id="PL7F3CFEE9CDB04F18"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+  </span>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Queue" data-video-ids="7wf3yafHkgQ" data-list-id="PL7F3CFEE9CDB04F18" data-style="tv-queue"></button>
+</span></a></div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=7wf3yafHkgQ&amp;list=PL7F3CFEE9CDB04F18" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CGAQ2zAYByITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="hindi Shahrukh Khan songs" aria-describedby="description-id-930463" dir="ltr">hindi Shahrukh Khan songs</a><span class="accessible-description" id="description-id-930463"> - Playlist</span></h3><div class="yt-lockup-byline "><a href="/user/safras99" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CGAQ2zAYByITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >mohmmed Safras</a></div><ol class="yt-lockup-meta yt-lockup-playlist-items"><li class="yt-lockup-playlist-item clearfix"><span class="yt-lockup-playlist-item-length"><span aria-label="5 minutes, 2 seconds">5:02</span></span><a href="/watch?v=7wf3yafHkgQ&amp;list=PL7F3CFEE9CDB04F18" class="yt-lockup-playlist-item-title yt-uix-sessionlink      spf-link " data-sessionlink="itct=CGAQ2zAYByITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  dir="ltr">Tujhe Dekha To Ye Jaana Sanam ~ Dilwale Dulhania Le Jayenge ((1995)) Shahrukh Khan Kajol</a></li><li class="yt-lockup-playlist-item clearfix"><span class="yt-lockup-playlist-item-length"><span aria-label="5 minutes, 35 seconds">5:35</span></span><a href="/watch?v=T3K_Fjrh9Uw&amp;list=PL7F3CFEE9CDB04F18" class="yt-lockup-playlist-item-title yt-uix-sessionlink      spf-link " data-sessionlink="itct=CGAQ2zAYByITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  dir="ltr">Are Re Are - Full Song | Dil To Pagal Hai | Shah Rukh Khan | Madhuri Dixit</a></li></ol><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li><a href="/playlist?list=PL7F3CFEE9CDB04F18" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CGAQ2zAYByITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >View full playlist (30 videos)</a></li></ul></div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix" data-context-item-id="4FEHia_AXUM" data-visibility-tracking="CF8Q3DAYCCITCKHWmersmNoCFUO9aAodpe0DrCj0JEDDuoH-mvHBqOAB"><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true"  href="/watch?v=4FEHia_AXUM" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CF8Q3DAYCCITCKHWmersmNoCFUO9aAodpe0DrCj0JFIWc2hhaHJ1a2gga2hhbiBwbGF5bGlzdA" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img src="/yts/img/pixel-vfl3z5WfW.gif" height="138" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" width="246" data-thumb="https://i.ytimg.com/vi/4FEHia_AXUM/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLAIocLkrTPpT9E5wcgpO-tOHmP0bQ" data-ytimg="1" alt="" >
+<span class="video-time" aria-hidden="true">50:42</span></span></div></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-expanded="false" onclick=";return false;" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="4FEHia_AXUM"><span class="addto-watch-queue-menu-text">Play next</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="4FEHia_AXUM"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Watch later" data-video-ids="4FEHia_AXUM" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Queue" data-video-ids="4FEHia_AXUM" data-style="tv-queue"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=4FEHia_AXUM" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CF8Q3DAYCCITCKHWmersmNoCFUO9aAodpe0DrCj0JFIWc2hhaHJ1a2gga2hhbiBwbGF5bGlzdA"  title="Mohabbatein Audio Jukebox | Full Songs | Shah Rukh Khan | Aishwarya Rai" aria-describedby="description-id-143803" rel="spf-prefetch" dir="ltr">Mohabbatein Audio Jukebox | Full Songs | Shah Rukh Khan | Aishwarya Rai</a><span class="accessible-description" id="description-id-143803"> - Duration: 50:42.</span></h3><div class="yt-lockup-byline "><a href="/user/YRFsongs" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CF8Q3DAYCCITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >YRF Music</a>&nbsp;<span class="yt-uix-tooltip yt-channel-title-icon-verified yt-sprite" title="Verified"></span></div><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li>3 years ago</li><li>11,052,117 views</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">Subscribe Now: <a href="https://goo.gl/D9UXA6" target="_blank" title="https://goo.gl/D9UXA6" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">https://goo.gl/D9UXA6</a> Stay updated! Love doesn&#39;t follow rules, it only follows what the hearts says! Listen to the </div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix" data-context-item-id="gCZprpSDy0I" data-visibility-tracking="CF4Q3DAYCSITCKHWmersmNoCFUO9aAodpe0DrCj0JEDClo-k6bWak4AB"><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true"  href="/watch?v=gCZprpSDy0I" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CF4Q3DAYCSITCKHWmersmNoCFUO9aAodpe0DrCj0JFIWc2hhaHJ1a2gga2hhbiBwbGF5bGlzdA" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img src="/yts/img/pixel-vfl3z5WfW.gif" height="138" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" width="246" data-thumb="https://i.ytimg.com/vi/gCZprpSDy0I/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLCHWjHdmhRbNEz_vM4lQpdWfh1uCA" data-ytimg="1" alt="" >
+<span class="video-time" aria-hidden="true">41:46</span></span></div></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-expanded="false" onclick=";return false;" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="gCZprpSDy0I"><span class="addto-watch-queue-menu-text">Play next</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="gCZprpSDy0I"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Watch later" data-video-ids="gCZprpSDy0I" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Queue" data-video-ids="gCZprpSDy0I" data-style="tv-queue"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=gCZprpSDy0I" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CF4Q3DAYCSITCKHWmersmNoCFUO9aAodpe0DrCj0JFIWc2hhaHJ1a2gga2hhbiBwbGF5bGlzdA"  title="Romance with &quot;Shah Rukh Khan&quot;- Audio Jukebox" aria-describedby="description-id-983831" rel="spf-prefetch" dir="ltr">Romance with &quot;Shah Rukh Khan&quot;- Audio Jukebox</a><span class="accessible-description" id="description-id-983831"> - Duration: 41:46.</span></h3><div class="yt-lockup-byline "><a href="/user/yrf" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CF4Q3DAYCSITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >YRF</a>&nbsp;<span class="yt-uix-tooltip yt-channel-title-icon-verified yt-sprite" title="Verified"></span></div><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li>3 years ago</li><li>319,577 views</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">He is the epitome of romance! Live your dream with the Romance with <b>Shah Rukh Khan</b> – Full Song Audio Jukebox! ▻ Buy from </div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix" data-context-item-id="Bxf6AGcP-5Q" data-visibility-tracking="CF0Q3DAYCiITCKHWmersmNoCFUO9aAodpe0DrCj0JECU97-4hsD-iwc="><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true"  href="/watch?v=Bxf6AGcP-5Q" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CF0Q3DAYCiITCKHWmersmNoCFUO9aAodpe0DrCj0JFIWc2hhaHJ1a2gga2hhbiBwbGF5bGlzdA" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img src="/yts/img/pixel-vfl3z5WfW.gif" height="138" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" width="246" data-thumb="https://i.ytimg.com/vi/Bxf6AGcP-5Q/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLBnUtMUCWZNEbUtD2CLzd2rR6NI_g" data-ytimg="1" alt="" >
+<span class="video-time" aria-hidden="true">36:06</span></span></div></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-expanded="false" onclick=";return false;" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="Bxf6AGcP-5Q"><span class="addto-watch-queue-menu-text">Play next</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="Bxf6AGcP-5Q"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Watch later" data-video-ids="Bxf6AGcP-5Q" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Queue" data-video-ids="Bxf6AGcP-5Q" data-style="tv-queue"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=Bxf6AGcP-5Q" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CF0Q3DAYCiITCKHWmersmNoCFUO9aAodpe0DrCj0JFIWc2hhaHJ1a2gga2hhbiBwbGF5bGlzdA"  title="Best Of Shah Rukh Khan &amp; Deepika Padukone Video Songs Collection (2015) |T-Series" aria-describedby="description-id-667322" rel="spf-prefetch" dir="ltr">Best Of Shah Rukh Khan &amp; Deepika Padukone Video Songs Collection (2015) |T-Series</a><span class="accessible-description" id="description-id-667322"> - Duration: 36:06.</span></h3><div class="yt-lockup-byline "><a href="/user/tseries" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CF0Q3DAYCiITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >T-Series</a>&nbsp;<span class="yt-uix-tooltip yt-channel-title-icon-verified yt-sprite" title="Verified"></span></div><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li>2 years ago</li><li>3,248,493 views</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">T-Series presents Best of <b>Shah Rukh Khan</b> Songs &amp; Deepika Padukone Video Songs Collection from 2007 to 2015. This is super hit </div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-playlist vve-check clearfix" data-visibility-tracking="CFwQ2zAYCyITCKHWmersmNoCFUO9aAodpe0DrCj0JA=="><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail yt-pl-thumb" style="width:246px" aria-hidden="true"><a href="/watch?v=8z-WAHG6KB4&amp;list=PLjity7Lwv-zoY0kEMflSdq4jfSN123Zt8" class="yt-pl-thumb-link yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFwQ2zAYCyITCKHWmersmNoCFUO9aAodpe0DrCj0JA" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img src="/yts/img/pixel-vfl3z5WfW.gif" height="138" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" width="246" data-thumb="https://i.ytimg.com/vi/8z-WAHG6KB4/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLD2n6da23B7xvoXhaWSE97gXeWadQ" data-ytimg="1" alt="" >
+</span></div><div class="sidebar"><span class="yt-pl-sidebar-content yt-valign"><span class="yt-valign-container"><span class="formatted-video-count-label"><b>338</b> videos</span><span class="yt-pl-icon yt-pl-icon-reg yt-sprite"></span></span></span></div><div class="yt-pl-thumb-overlay"><span class="yt-pl-thumb-overlay-content"><span class="play-icon yt-sprite"></span><span class="yt-pl-thumb-overlay-text">Play all</span></span></div><span class="yt-pl-watch-queue-overlay">  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-expanded="false" onclick=";return false;" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="8z-WAHG6KB4" data-list-id="PLjity7Lwv-zoY0kEMflSdq4jfSN123Zt8"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+  </span>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Queue" data-video-ids="8z-WAHG6KB4" data-list-id="PLjity7Lwv-zoY0kEMflSdq4jfSN123Zt8" data-style="tv-queue"></button>
+</span></a></div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=8z-WAHG6KB4&amp;list=PLjity7Lwv-zoY0kEMflSdq4jfSN123Zt8" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFwQ2zAYCyITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Shahrukh Khan Hindi Video Songs HD 1080P Bluray | shahrukh khan songs | shahrukh khan songs playlist | shahrukh khan songs video | Hindi Official" aria-describedby="description-id-144008" dir="ltr">Shahrukh Khan Hindi Video Songs HD 1080P Bluray | shahrukh khan songs | shahrukh khan songs playlist | shahrukh khan songs video | Hindi Official</a><span class="accessible-description" id="description-id-144008"> - Playlist</span></h3><div class="yt-lockup-byline "><a href="/channel/UCKsY5V6ZLZ-gzC0SN038JhA" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CFwQ2zAYCyITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >SPR Official VEVO</a>&nbsp;<span class="yt-uix-tooltip yt-channel-title-icon-verified yt-sprite" title="Verified"></span></div><ol class="yt-lockup-meta yt-lockup-playlist-items"><li class="yt-lockup-playlist-item clearfix"><span class="yt-lockup-playlist-item-length"><span aria-label="2 minutes, 1 second">2:01</span></span><a href="/watch?v=8z-WAHG6KB4&amp;list=PLjity7Lwv-zoY0kEMflSdq4jfSN123Zt8" class="yt-lockup-playlist-item-title yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFwQ2zAYCyITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  dir="ltr">Dhingana | Raees | Shah Rukh Khan | JAM8 | Mika Singh</a></li><li class="yt-lockup-playlist-item clearfix"><span class="yt-lockup-playlist-item-length"><span aria-label="83 seconds">1:23</span></span><a href="/watch?v=bX2qcEUyd8s&amp;list=PLjity7Lwv-zoY0kEMflSdq4jfSN123Zt8" class="yt-lockup-playlist-item-title yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFwQ2zAYCyITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  dir="ltr">Sharukhan Video Songs HD 1080P Bluray  | Introduction | Biography | SRK Hindi Official Playlist</a></li></ol><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li><a href="/playlist?list=PLjity7Lwv-zoY0kEMflSdq4jfSN123Zt8" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CFwQ2zAYCyITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >View full playlist (338 videos)</a></li></ul></div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix" data-context-item-id="4BiAotvNkV0" data-visibility-tracking="CFsQ3DAYDCITCKHWmersmNoCFUO9aAodpe0DrCj0JEDdorberZSgjOAB"><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true"  href="/watch?v=4BiAotvNkV0" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFsQ3DAYDCITCKHWmersmNoCFUO9aAodpe0DrCj0JFIWc2hhaHJ1a2gga2hhbiBwbGF5bGlzdA" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img src="/yts/img/pixel-vfl3z5WfW.gif" height="138" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" width="246" data-thumb="https://i.ytimg.com/vi/4BiAotvNkV0/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLB3WHAjQJOFhvyNcxGODLn7J8Oa2w" data-ytimg="1" alt="" >
+<span class="video-time" aria-hidden="true">1:43:55</span></span></div></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-expanded="false" onclick=";return false;" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="4BiAotvNkV0"><span class="addto-watch-queue-menu-text">Play next</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="4BiAotvNkV0"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Watch later" data-video-ids="4BiAotvNkV0" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Queue" data-video-ids="4BiAotvNkV0" data-style="tv-queue"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=4BiAotvNkV0" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFsQ3DAYDCITCKHWmersmNoCFUO9aAodpe0DrCj0JFIWc2hhaHJ1a2gga2hhbiBwbGF5bGlzdA"  title="SHAHRUKH KHAN HITS : Best Bollywood Romantic Songs | VIDEO JUKEBOX | Best Hindi Songs" aria-describedby="description-id-916996" rel="spf-prefetch" dir="ltr">SHAHRUKH KHAN HITS : Best Bollywood Romantic Songs | VIDEO JUKEBOX | Best Hindi Songs</a><span class="accessible-description" id="description-id-916996"> - Duration: 1:43:55.</span></h3><div class="yt-lockup-byline "><a href="/user/venus" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CFsQ3DAYDCITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >Venus</a>&nbsp;<span class="yt-uix-tooltip yt-channel-title-icon-verified yt-sprite" title="Verified"></span></div><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li>1 year ago</li><li>2,240,688 views</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">For &quot;<b>Shah Rukh Khan</b> - At His Best App&quot; : <a href="http://bit.ly/2eZNeP5" target="_blank" title="http://bit.ly/2eZNeP5" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">http://bit.ly/2eZNeP5</a> Best Of <b>Shahrukh Khan</b> : <a href="http://bit.ly/2bLxy0M" target="_blank" title="http://bit.ly/2bLxy0M" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">http://bit.ly/2bLxy0M</a> Enjoy 90&#39;s Evergreen </div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix" data-context-item-id="S2MdJSmty70" data-visibility-tracking="CFoQ3DAYDSITCKHWmersmNoCFUO9aAodpe0DrCj0JEC9l7fN0qTHsUs="><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true"  href="/watch?v=S2MdJSmty70" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFoQ3DAYDSITCKHWmersmNoCFUO9aAodpe0DrCj0JFIWc2hhaHJ1a2gga2hhbiBwbGF5bGlzdA" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img src="/yts/img/pixel-vfl3z5WfW.gif" height="138" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" width="246" data-thumb="https://i.ytimg.com/vi/S2MdJSmty70/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLBas4AXgT6XPa9Jt8YBOpASDdQU_w" data-ytimg="1" alt="" >
+<span class="video-time" aria-hidden="true">1:01:43</span></span></div></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-expanded="false" onclick=";return false;" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="S2MdJSmty70"><span class="addto-watch-queue-menu-text">Play next</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="S2MdJSmty70"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Watch later" data-video-ids="S2MdJSmty70" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Queue" data-video-ids="S2MdJSmty70" data-style="tv-queue"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=S2MdJSmty70" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFoQ3DAYDSITCKHWmersmNoCFUO9aAodpe0DrCj0JFIWc2hhaHJ1a2gga2hhbiBwbGF5bGlzdA"  title="&quot;Shahrukh Khan&quot; Romantic Hits | Audio Jukebox" aria-describedby="description-id-387716" rel="spf-prefetch" dir="ltr">&quot;Shahrukh Khan&quot; Romantic Hits | Audio Jukebox</a><span class="accessible-description" id="description-id-387716"> - Duration: 1:01:43.</span></h3><div class="yt-lockup-byline "><a href="/user/venus" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CFoQ3DAYDSITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >Venus</a>&nbsp;<span class="yt-uix-tooltip yt-channel-title-icon-verified yt-sprite" title="Verified"></span></div><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li>4 years ago</li><li>1,929,795 views</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">For &quot;<b>Shah Rukh Khan</b> - At His Best App&quot; : <a href="http://bit.ly/2eZNeP5" target="_blank" title="http://bit.ly/2eZNeP5" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">http://bit.ly/2eZNeP5</a> Enjoy The &quot;<b>Shahrukh Khan</b>&quot; Romantic Hits Audio Songs Jukebox:- </div></div></div></div></li>
+
+<li><div class="search-refinements"><h3>Searches related to <b>shahrukh khan playlist</b></h3><div class="search-refinement"><a href="/results?search_query=shahrukh+khan+songs+old" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFkQsDoYACITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >shahrukh khan songs old</a></div><div class="search-refinement"><a href="/results?search_query=srk+video+songs+hd" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CE8QsDoYCiITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >srk video songs hd</a></div><div class="search-refinement"><a href="/results?search_query=shahrukh+khan+songs+2017" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFgQsDoYASITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >shahrukh khan songs 2017</a></div><div class="search-refinement"><a href="/results?search_query=srk+sad+songs" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CE4QsDoYCyITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >srk sad songs</a></div><div class="search-refinement"><a href="/results?search_query=shahrukh+khan+and+kajol+songs" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFcQsDoYAiITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >kajol songs</a></div><div class="search-refinement"><a href="/results?search_query=salman+khan+song" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CE0QsDoYDCITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >salman khan song</a></div><div class="search-refinement"><a href="/results?search_query=shahrukh+khan+2017" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFYQsDoYAyITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >shahrukh khan 2017</a></div><div class="search-refinement"><a href="/results?search_query=main+hoon+na+songs" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEwQsDoYDSITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >main hoon na songs</a></div><div class="search-refinement"><a href="/results?search_query=sharukhan+hits+full+movies" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFUQsDoYBCITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >sharukhan hits full movies</a></div><div class="search-refinement"><a href="/results?search_query=suraj+hua+madham" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEsQsDoYDiITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >suraj hua madham</a></div><div class="search-refinement"><a href="/results?search_query=sharukhan+hits+full+movies+2017" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFQQsDoYBSITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >sharukhan hits full movies 2017</a></div><div class="search-refinement"><a href="/results?search_query=mohabbatein+songs" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEoQsDoYDyITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >mohabbatein songs</a></div><div class="search-refinement"><a href="/results?search_query=srk+video" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFMQsDoYBiITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >srk video</a></div><div class="search-refinement"><a href="/results?search_query=ddlj+songs" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEkQsDoYECITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >ddlj songs</a></div><div class="search-refinement"><a href="/results?search_query=shahrukh+khan+performance" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFIQsDoYByITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >shahrukh khan performance</a></div><div class="search-refinement"><a href="/results?search_query=veer+zaara+songs" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEgQsDoYESITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >veer zaara songs</a></div><div class="search-refinement"><a href="/results?search_query=sharukhan+video" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFEQsDoYCCITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >sharukhan video</a></div><div class="search-refinement"><a href="/results?search_query=jab+tak+hai+jaan+songs" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEcQsDoYEiITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >jab tak hai jaan songs</a></div><div class="search-refinement"><a href="/results?search_query=amir+khan+songs" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CFAQsDoYCSITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >amir khan songs</a></div><div class="search-refinement"><a href="/results?search_query=srk+status" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEYQsDoYEyITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >srk status</a></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-playlist vve-check clearfix" data-visibility-tracking="CEQQ2zAYDyITCKHWmersmNoCFUO9aAodpe0DrCj0JA=="><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail yt-pl-thumb" style="width:246px" aria-hidden="true"><a href="/watch?v=vC24OApVAko&amp;list=PLnf6LEnckh2TEV5rTrzOWhwZCo3K9zCd_" class="yt-pl-thumb-link yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEQQ2zAYDyITCKHWmersmNoCFUO9aAodpe0DrCj0JA" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img src="/yts/img/pixel-vfl3z5WfW.gif" height="138" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" width="246" data-thumb="https://i.ytimg.com/vi/vC24OApVAko/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLDnZaj1zUNh-3QJHaiBLAUfgwMzhQ" data-ytimg="1" alt="" >
+</span></div><div class="sidebar"><span class="yt-pl-sidebar-content yt-valign"><span class="yt-valign-container"><span class="formatted-video-count-label"><b>32</b> videos</span><span class="yt-pl-icon yt-pl-icon-reg yt-sprite"></span></span></span></div><div class="yt-pl-thumb-overlay"><span class="yt-pl-thumb-overlay-content"><span class="play-icon yt-sprite"></span><span class="yt-pl-thumb-overlay-text">Play all</span></span></div><span class="yt-pl-watch-queue-overlay">  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-expanded="false" onclick=";return false;" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="vC24OApVAko" data-list-id="PLnf6LEnckh2TEV5rTrzOWhwZCo3K9zCd_"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+  </span>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Queue" data-video-ids="vC24OApVAko" data-list-id="PLnf6LEnckh2TEV5rTrzOWhwZCo3K9zCd_" data-style="tv-queue"></button>
+</span></a></div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=vC24OApVAko&amp;list=PLnf6LEnckh2TEV5rTrzOWhwZCo3K9zCd_" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEQQ2zAYDyITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Shahrukhkhan songs" aria-describedby="description-id-479200" dir="ltr">Shahrukhkhan songs</a><span class="accessible-description" id="description-id-479200"> - Playlist</span></h3><div class="yt-lockup-byline "><a href="/user/jainivas" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CEQQ2zAYDyITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >Bhaumik Modi</a></div><ol class="yt-lockup-meta yt-lockup-playlist-items"><li class="yt-lockup-playlist-item clearfix"><span class="yt-lockup-playlist-item-length"><span aria-label="5 minutes, 41 seconds">5:41</span></span><a href="/watch?v=vC24OApVAko&amp;list=PLnf6LEnckh2TEV5rTrzOWhwZCo3K9zCd_" class="yt-lockup-playlist-item-title yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEQQ2zAYDyITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  dir="ltr">Jaati Hoon Main   Karan Arjun 1995 HD 1080p BluRay Music Videos   YouTube</a></li><li class="yt-lockup-playlist-item clearfix"><span class="yt-lockup-playlist-item-length"><span aria-label="5 minutes, 54 seconds">5:54</span></span><a href="/watch?v=FmI5KKk61ek&amp;list=PLnf6LEnckh2TEV5rTrzOWhwZCo3K9zCd_" class="yt-lockup-playlist-item-title yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEQQ2zAYDyITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  dir="ltr">Najane Mere Dil Ko  - Dilwale Dulhania Le Jayenge - BluRay (Full-HD 1080p)</a></li></ol><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li><a href="/playlist?list=PLnf6LEnckh2TEV5rTrzOWhwZCo3K9zCd_" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CEQQ2zAYDyITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >View full playlist (32 videos)</a></li></ul></div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-playlist vve-check clearfix" data-visibility-tracking="CEMQ2zAYECITCKHWmersmNoCFUO9aAodpe0DrCj0JA=="><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail yt-pl-thumb" style="width:246px" aria-hidden="true"><a href="/watch?v=atU_OXnwL6U&amp;list=PLyrUPCH7ysITHyLYOpvlsTBdMWS-Y2KFl" class="yt-pl-thumb-link yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEMQ2zAYECITCKHWmersmNoCFUO9aAodpe0DrCj0JA" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img src="/yts/img/pixel-vfl3z5WfW.gif" height="138" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" width="246" data-thumb="https://i.ytimg.com/vi/atU_OXnwL6U/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLCWpHV8u2e1x63RvtYSbwVjAkDoZQ" data-ytimg="1" alt="" >
+</span></div><div class="sidebar"><span class="yt-pl-sidebar-content yt-valign"><span class="yt-valign-container"><span class="formatted-video-count-label"><b>10</b> videos</span><span class="yt-pl-icon yt-pl-icon-reg yt-sprite"></span></span></span></div><div class="yt-pl-thumb-overlay"><span class="yt-pl-thumb-overlay-content"><span class="play-icon yt-sprite"></span><span class="yt-pl-thumb-overlay-text">Play all</span></span></div><span class="yt-pl-watch-queue-overlay">  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-expanded="false" onclick=";return false;" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="atU_OXnwL6U" data-list-id="PLyrUPCH7ysITHyLYOpvlsTBdMWS-Y2KFl"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+  </span>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Queue" data-video-ids="atU_OXnwL6U" data-list-id="PLyrUPCH7ysITHyLYOpvlsTBdMWS-Y2KFl" data-style="tv-queue"></button>
+</span></a></div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=atU_OXnwL6U&amp;list=PLyrUPCH7ysITHyLYOpvlsTBdMWS-Y2KFl" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEMQ2zAYECITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Shah Rukh Khan - 10 Most Romantic Songs" aria-describedby="description-id-502131" dir="ltr">Shah Rukh Khan - 10 Most Romantic Songs</a><span class="accessible-description" id="description-id-502131"> - Playlist</span></h3><div class="yt-lockup-byline "><a href="/user/YRFsongs" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CEMQ2zAYECITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >YRF Music</a>&nbsp;<span class="yt-uix-tooltip yt-channel-title-icon-verified yt-sprite" title="Verified"></span></div><ol class="yt-lockup-meta yt-lockup-playlist-items"><li class="yt-lockup-playlist-item clearfix"><span class="yt-lockup-playlist-item-length"><span aria-label="2 minutes, 42 seconds">2:42</span></span><a href="/watch?v=atU_OXnwL6U&amp;list=PLyrUPCH7ysITHyLYOpvlsTBdMWS-Y2KFl" class="yt-lockup-playlist-item-title yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEMQ2zAYECITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  dir="ltr">Main Yahaan Hoon Song | Veer-Zaara | Shah Rukh Khan | Preity Zinta</a></li><li class="yt-lockup-playlist-item clearfix"><span class="yt-lockup-playlist-item-length"><span aria-label="4 minutes, 42 seconds">4:42</span></span><a href="/watch?v=MAVzDNc-L4g&amp;list=PLyrUPCH7ysITHyLYOpvlsTBdMWS-Y2KFl" class="yt-lockup-playlist-item-title yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEMQ2zAYECITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  dir="ltr">Tujh Mein Rab Dikhta Hai - Full Song |  Rab Ne Bana Di Jodi | Shah Rukh Khan | Anushka Sharma</a></li></ol><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li><a href="/playlist?list=PLyrUPCH7ysITHyLYOpvlsTBdMWS-Y2KFl" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CEMQ2zAYECITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >View full playlist (10 videos)</a></li></ul></div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix" data-context-item-id="Vim6rhY_S0g" data-visibility-tracking="CEIQ3DAYESITCKHWmersmNoCFUO9aAodpe0DrCj0JEDIlv2x4dXulFY="><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true"  href="/watch?v=Vim6rhY_S0g" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEIQ3DAYESITCKHWmersmNoCFUO9aAodpe0DrCj0JFIWc2hhaHJ1a2gga2hhbiBwbGF5bGlzdA" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img src="/yts/img/pixel-vfl3z5WfW.gif" height="138" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" width="246" data-thumb="https://i.ytimg.com/vi/Vim6rhY_S0g/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLAD2LRBJpvLCEpr2zWHDXD2HBejag" data-ytimg="1" alt="" >
+<span class="video-time" aria-hidden="true">4:42</span></span></div></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-expanded="false" onclick=";return false;" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="Vim6rhY_S0g"><span class="addto-watch-queue-menu-text">Play next</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="Vim6rhY_S0g"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Watch later" data-video-ids="Vim6rhY_S0g" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Queue" data-video-ids="Vim6rhY_S0g" data-style="tv-queue"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=Vim6rhY_S0g" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEIQ3DAYESITCKHWmersmNoCFUO9aAodpe0DrCj0JFIWc2hhaHJ1a2gga2hhbiBwbGF5bGlzdA"  title="Tujh Mein Rab Dikhta Hai - Full Song | Rab Ne Bana Di Jodi | Shah Rukh Khan | Anushka Sharma" aria-describedby="description-id-852049" rel="spf-prefetch" dir="ltr">Tujh Mein Rab Dikhta Hai - Full Song | Rab Ne Bana Di Jodi | Shah Rukh Khan | Anushka Sharma</a><span class="accessible-description" id="description-id-852049"> - Duration: 4:42.</span></h3><div class="yt-lockup-byline "><a href="/user/YRFsongs" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CEIQ3DAYESITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >YRF Music</a>&nbsp;<span class="yt-uix-tooltip yt-channel-title-icon-verified yt-sprite" title="Verified"></span></div><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li>6 years ago</li><li>13,951,433 views</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">Subscribe Now: <a href="https://goo.gl/D9UXA6" target="_blank" title="https://goo.gl/D9UXA6" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">https://goo.gl/D9UXA6</a> Stay updated! Believe in love. Embrace &amp; hold onto it forever. Watch this surreal song &#39;Tujh </div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-playlist vve-check clearfix" data-visibility-tracking="CEEQ2zAYEiITCKHWmersmNoCFUO9aAodpe0DrCj0JA=="><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail yt-pl-thumb" style="width:246px" aria-hidden="true"><a href="/watch?v=ZLNQP2HxQoE&amp;list=PL9bw4S5ePsEHdlFXlIiz1qWX8oMl_2aRP" class="yt-pl-thumb-link yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEEQ2zAYEiITCKHWmersmNoCFUO9aAodpe0DrCj0JA" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img src="/yts/img/pixel-vfl3z5WfW.gif" height="138" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" width="246" data-thumb="https://i.ytimg.com/vi/ZLNQP2HxQoE/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLDBvH-4S1DXkPHUshW1w6FekLfGtA" data-ytimg="1" alt="" >
+</span></div><div class="sidebar"><span class="yt-pl-sidebar-content yt-valign"><span class="yt-valign-container"><span class="formatted-video-count-label"><b>3</b> videos</span><span class="yt-pl-icon yt-pl-icon-reg yt-sprite"></span></span></span></div><div class="yt-pl-thumb-overlay"><span class="yt-pl-thumb-overlay-content"><span class="play-icon yt-sprite"></span><span class="yt-pl-thumb-overlay-text">Play all</span></span></div><span class="yt-pl-watch-queue-overlay">  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-expanded="false" onclick=";return false;" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="ZLNQP2HxQoE" data-list-id="PL9bw4S5ePsEHdlFXlIiz1qWX8oMl_2aRP"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+  </span>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Queue" data-video-ids="ZLNQP2HxQoE" data-list-id="PL9bw4S5ePsEHdlFXlIiz1qWX8oMl_2aRP" data-style="tv-queue"></button>
+</span></a></div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=ZLNQP2HxQoE&amp;list=PL9bw4S5ePsEHdlFXlIiz1qWX8oMl_2aRP" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEEQ2zAYEiITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  title="Shahrukh Khan | Sad Songs" aria-describedby="description-id-502636" dir="ltr">Shahrukh Khan | Sad Songs</a><span class="accessible-description" id="description-id-502636"> - Playlist</span></h3><div class="yt-lockup-byline "><a href="/user/tseries" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CEEQ2zAYEiITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >T-Series</a>&nbsp;<span class="yt-uix-tooltip yt-channel-title-icon-verified yt-sprite" title="Verified"></span></div><ol class="yt-lockup-meta yt-lockup-playlist-items"><li class="yt-lockup-playlist-item clearfix"><span class="yt-lockup-playlist-item-length"><span aria-label="3 minutes, 37 seconds">3:37</span></span><a href="/watch?v=ZLNQP2HxQoE&amp;list=PL9bw4S5ePsEHdlFXlIiz1qWX8oMl_2aRP" class="yt-lockup-playlist-item-title yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEEQ2zAYEiITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  dir="ltr">Layi Vi Na Gayi (Full Song) | Chalte Chalte | Shah Rukh Khan, Rani Mukherjee</a></li><li class="yt-lockup-playlist-item clearfix"><span class="yt-lockup-playlist-item-length"><span aria-label="113 seconds">1:53</span></span><a href="/watch?v=fABfaM-E_WY&amp;list=PL9bw4S5ePsEHdlFXlIiz1qWX8oMl_2aRP" class="yt-lockup-playlist-item-title yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEEQ2zAYEiITCKHWmersmNoCFUO9aAodpe0DrCj0JA"  dir="ltr">Sab Kuchh Bhula Diya, Film -  Hum Tumhare Hain Sanam</a></li></ol><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li><a href="/playlist?list=PL9bw4S5ePsEHdlFXlIiz1qWX8oMl_2aRP" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CEEQ2zAYEiITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >View full playlist (3 videos)</a></li></ul></div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix" data-context-item-id="mtPQmZB3w3M" data-visibility-tracking="CEAQ3DAYEyITCKHWmersmNoCFUO9aAodpe0DrCj0JEDzht-DmZP06ZoB"><div class="yt-lockup-dismissable yt-uix-tile"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true"  href="/watch?v=mtPQmZB3w3M" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEAQ3DAYEyITCKHWmersmNoCFUO9aAodpe0DrCj0JFIWc2hhaHJ1a2gga2hhbiBwbGF5bGlzdA" ><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img src="/yts/img/pixel-vfl3z5WfW.gif" height="138" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" width="246" data-thumb="https://i.ytimg.com/vi/mtPQmZB3w3M/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLB9dHDfdAPIVTPezbtmaaPUOuhytQ" data-ytimg="1" alt="" >
+<span class="video-time" aria-hidden="true">2:13:24</span></span></div></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-expanded="false" onclick=";return false;" aria-haspopup="true" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="mtPQmZB3w3M"><span class="addto-watch-queue-menu-text">Play next</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="mtPQmZB3w3M"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Watch later" data-video-ids="mtPQmZB3w3M" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="Queue" data-video-ids="mtPQmZB3w3M" data-style="tv-queue"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title "><a href="/watch?v=mtPQmZB3w3M" class="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link " data-sessionlink="itct=CEAQ3DAYEyITCKHWmersmNoCFUO9aAodpe0DrCj0JFIWc2hhaHJ1a2gga2hhbiBwbGF5bGlzdA"  title="Best of Shahrukh Khan | Hindi Songs | Top 21 Bollywood Romantic Songs | AUDIO JUKEBOX" aria-describedby="description-id-632836" rel="spf-prefetch" dir="ltr">Best of Shahrukh Khan | Hindi Songs | Top 21 Bollywood Romantic Songs | AUDIO JUKEBOX</a><span class="accessible-description" id="description-id-632836"> - Duration: 2:13:24.</span></h3><div class="yt-lockup-byline "><a href="/user/venus" class="yt-uix-sessionlink       spf-link " data-sessionlink="itct=CEAQ3DAYEyITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >Venus</a>&nbsp;<span class="yt-uix-tooltip yt-channel-title-icon-verified yt-sprite" title="Verified"></span></div><div class="yt-lockup-meta "><ul class="yt-lockup-meta-info"><li>1 year ago</li><li>892,548 views</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">For &quot;<b>Shah Rukh Khan</b> - At His Best App&quot; : <a href="http://bit.ly/2eZNeP5" target="_blank" title="http://bit.ly/2eZNeP5" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">http://bit.ly/2eZNeP5</a> Best Of <b>Shahrukh Khan</b> : <a href="http://bit.ly/2bLxy0M" target="_blank" title="http://bit.ly/2bLxy0M" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">http://bit.ly/2bLxy0M</a> Enjoy Bollywood 90&#39;s </div></div></div></div></li>
+</ol>
+</li>
+</ol>
+
+
+  </div>
+
+
+    <div class="branded-page-box search-pager  spf-link ">
+
+
+
+
+
+
+
+
+
+
+
+
+      <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default  vve-check" type="button" onclick=";return false;" disabled="True" aria-label="Go to page 1" data-redirect-url="/results?search_query=shahrukh+khan+playlist&amp;amp;sp=SADqAwA%253D" data-sessionlink="itct=CB0QnKQBGAAiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ" data-visibility-tracking="CB0QnKQBGAAiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ"><span class="yt-uix-button-content">1</span></button>
+ 
+
+
+
+
+
+
+
+
+
+
+
+      <a  href="/results?search_query=shahrukh+khan+playlist&amp;sp=SBTqAwA%253D" class="yt-uix-button   vve-check yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="itct=CBwQnKQBGAEiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ" data-visibility-tracking="CBwQnKQBGAEiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ" aria-label="Go to page 2"><span class="yt-uix-button-content">2</span></a>
+ 
+
+
+
+
+
+
+
+
+
+
+
+      <a  href="/results?search_query=shahrukh+khan+playlist&amp;sp=SCjqAwA%253D" class="yt-uix-button   vve-check yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="itct=CBsQnKQBGAIiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ" data-visibility-tracking="CBsQnKQBGAIiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ" aria-label="Go to page 3"><span class="yt-uix-button-content">3</span></a>
+ 
+
+
+
+
+
+
+
+
+
+
+
+      <a  href="/results?search_query=shahrukh+khan+playlist&amp;sp=SDzqAwA%253D" class="yt-uix-button   vve-check yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="itct=CBoQnKQBGAMiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ" data-visibility-tracking="CBoQnKQBGAMiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ" aria-label="Go to page 4"><span class="yt-uix-button-content">4</span></a>
+ 
+
+
+
+
+
+
+
+
+
+
+
+      <a  href="/results?search_query=shahrukh+khan+playlist&amp;sp=SFDqAwA%253D" class="yt-uix-button   vve-check yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="itct=CBkQnKQBGAQiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ" data-visibility-tracking="CBkQnKQBGAQiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ" aria-label="Go to page 5"><span class="yt-uix-button-content">5</span></a>
+ 
+
+
+
+
+
+
+
+
+
+
+
+      <a  href="/results?search_query=shahrukh+khan+playlist&amp;sp=SGTqAwA%253D" class="yt-uix-button   vve-check yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="itct=CBgQnKQBGAUiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ" data-visibility-tracking="CBgQnKQBGAUiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ" aria-label="Go to page 6"><span class="yt-uix-button-content">6</span></a>
+ 
+
+
+
+
+
+
+
+
+
+
+
+      <a  href="/results?search_query=shahrukh+khan+playlist&amp;sp=SHjqAwA%253D" class="yt-uix-button   vve-check yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="itct=CBcQnKQBGAYiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ" data-visibility-tracking="CBcQnKQBGAYiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ" aria-label="Go to page 7"><span class="yt-uix-button-content">7</span></a>
+ 
+
+
+
+
+
+
+
+
+
+
+
+      <a  href="/results?search_query=shahrukh+khan+playlist&amp;sp=SBTqAwA%253D" class="yt-uix-button   vve-check yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="itct=CBYQnKQBGAciEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ" data-visibility-tracking="CBYQnKQBGAciEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ" aria-label="Go to page 2"><span class="yt-uix-button-content">Next »</span></a>
+ </div>
+
+
+  </div>
+
+          </div>
+        </div>
+          <div class="branded-page-v2-secondary-col">
+                <div id="search-secondary-col-contents">
+      
+        <div class="watch-card watch-card-rhs yt-card"><div class="watch-card-header"><h2 class="watch-card-title"><a href="/channel/UC0gsAhMcSsy6jE6grXN3VLw" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CAcQzi4YACITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >Shah Rukh Khan</a></h2><div class="watch-card-meta"><ul><li class="yt-ui-ellipsis yt-ui-ellipsis-2">Music</li></ul></div></div><a href="/watch?v=AEIVhBS6baE&amp;list=RDEMfI4xWxH0FXBYwH1SGTEU4w" class="watch-card-collage yt-uix-sessionlink      spf-link " data-sessionlink="itct=CBQQ9ysiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQyCm1peC1zZWFyY2hSFnNoYWhydWtoIGtoYW4gcGxheWxpc3Q"  aria-label="YouTube Mix"><div class="watch-card-collage-lhs"><div class="yt-lockup-thumbnail"><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img src="//yt3.ggpht.com/Rabnt3_bDMCQKROcR0OsY28GvY8t8KCrFQt6o9D7ZCLlLexuQwJryDNNnXtixb8MIjrGmU9KFR704qqr=s176-nd-c-c0xffffffff-rj-k-no" height="150" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" width="150" data-ytimg="1" alt="" >
+</span></div></div></div><div class="watch-card-collage-rhs"><div class="yt-lockup-thumbnail"><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img src="//i.ytimg.com/vi/IoF2YivrDxk/mqdefault.jpg" height="84" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" width="150" data-ytimg="1" alt="" >
+</span></div></div><div class="yt-lockup-thumbnail"><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img src="//i.ytimg.com/vi/VHJR5GtAA-E/mqdefault.jpg" height="84" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" width="150" data-ytimg="1" alt="" >
+</span></div></div></div><div class="watch-card-playall yt-valign"><span class="watch-card-playall-halo yt-valign-container"><span class="watch-card-playall-button"><span class="watch-card-playall-content">YouTube Mix</span></span></span></div></a><ul class="yt-uix-tabs yt-uix-expander-collapsed "><li class="yt-uix-tabs-tab yt-uix-tabs-selected" data-uix-tabs-target-id="watch-card-tab0" title="Top Tracks"><span>Top Tracks</span></li></ul><div class="yt-uix-expander-collapsed yt-uix-expander"><div id="watch-card-tab0" class="watch-card-table "><table class="watch-card-list"><tr class="vve-check" data-visibility-tracking="CA8QnDQiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ="><td class="watch-card-main-col" title="Dilwale Dulhania Le Jayenge (Dialogues)" colspan="2"><a href="/watch?v=7JnKVPtRqVE&amp;list=PL2vE5Lf3WaGs0piieSroDC6vANHYJaBWi" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CA8QnDQiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CRSFnNoYWhydWtoIGtoYW4gcGxheWxpc3Q"  dir="ltr">Dilwale Dulhania Le Jayenge (Dialogues)</a></td><td class="watch-card-data-col">5:28</td></tr><tr class="vve-check" data-visibility-tracking="CA4QnDQiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ="><td class="watch-card-main-col" title="Aa Raha Hoon Palat Ke" colspan="2"><a href="/watch?v=VHJR5GtAA-E&amp;list=PL2vE5Lf3WaGs0piieSroDC6vANHYJaBWi" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CA4QnDQiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CRSFnNoYWhydWtoIGtoYW4gcGxheWxpc3Q"  dir="ltr">Aa Raha Hoon Palat Ke</a></td><td class="watch-card-data-col">0:38</td></tr><tr class="vve-check" data-visibility-tracking="CA0QnDQiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ="><td class="watch-card-main-col" title="Jab Tak Hai Jaan [The Poem] With lyrics &amp; English Translation" colspan="2"><a href="/watch?v=IoF2YivrDxk&amp;list=PL2vE5Lf3WaGs0piieSroDC6vANHYJaBWi" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CA0QnDQiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CRSFnNoYWhydWtoIGtoYW4gcGxheWxpc3Q"  dir="ltr">Jab Tak Hai Jaan [The Poem] With lyrics &amp; English Translation</a></td><td class="watch-card-data-col">2:21</td></tr><tr class="vve-check" data-visibility-tracking="CAwQnDQiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ="><td class="watch-card-main-col" title="Chalak Chalak" colspan="2"><a href="/watch?v=sZPMsUx702s&amp;list=PL2vE5Lf3WaGs0piieSroDC6vANHYJaBWi" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CAwQnDQiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CRSFnNoYWhydWtoIGtoYW4gcGxheWxpc3Q"  dir="ltr">Chalak Chalak</a></td><td class="watch-card-data-col">3:42</td></tr><tr class="vve-check" data-visibility-tracking="CAsQnDQiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ="><td class="watch-card-main-col" title="Suraj Hua Madham" colspan="2"><a href="/watch?v=ytOQRr-lgGU&amp;list=PL2vE5Lf3WaGs0piieSroDC6vANHYJaBWi" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CAsQnDQiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CRSFnNoYWhydWtoIGtoYW4gcGxheWxpc3Q"  dir="ltr">Suraj Hua Madham</a></td><td class="watch-card-data-col">3:26</td></tr><tr class="vve-check" data-visibility-tracking="CAoQnDQiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ="><td class="watch-card-main-col" title="Jab Tak Hai Jaan (Poem)" colspan="2"><a href="/watch?v=Qhq8GaOqnyg&amp;list=PL2vE5Lf3WaGs0piieSroDC6vANHYJaBWi" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CAoQnDQiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CRSFnNoYWhydWtoIGtoYW4gcGxheWxpc3Q"  dir="ltr">Jab Tak Hai Jaan (Poem)</a></td><td class="watch-card-data-col">0:50</td></tr><tr class="vve-check" data-visibility-tracking="CAkQnDQiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ="><td class="watch-card-main-col" title="Korbo Lorbo Jeetbo" colspan="2"><a href="/watch?v=HzMNWE0pnSw&amp;list=PL2vE5Lf3WaGs0piieSroDC6vANHYJaBWi" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CAkQnDQiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CRSFnNoYWhydWtoIGtoYW4gcGxheWxpc3Q"  dir="ltr">Korbo Lorbo Jeetbo</a></td><td class="watch-card-data-col">4:10</td></tr><tr class="watch-card-view-all-row"><td colspan="3"><a href="/playlist?list=PL2vE5Lf3WaGs0piieSroDC6vANHYJaBWi" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CAgQmzQYACITCKHWmersmNoCFUO9aAodpe0DrCj0JA" >View all</a></td></tr></table></div></div><div class="watch-card-section clearfix"><h3>Related Artists</h3><div class="watch-card-lockup-container"><div class="watch-card-mini-lockup"><a href="/results?search_query=Salman+Khan" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CBMQ-isiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ" ><div class="yt-lockup-thumbnail"><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img src="//i.ytimg.com/i/rWecxADcfirwa707nvz7-Q/mq1.jpg" height="80" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" width="80" data-ytimg="1" alt="" >
+</span></div></div><span class="yt-ui-ellipsis yt-ui-ellipsis-3">Salman Khan</span></a></div><div class="watch-card-mini-lockup"><a href="/results?search_query=Aamir+Khan" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CBIQ-isiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ" ><div class="yt-lockup-thumbnail"><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img src="//i.ytimg.com/i/7A8pKYx_iXnQflaH908j3A/mq1.jpg" height="80" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" width="80" data-ytimg="1" alt="" >
+</span></div></div><span class="yt-ui-ellipsis yt-ui-ellipsis-3">Aamir Khan</span></a></div><div class="watch-card-mini-lockup"><a href="/results?search_query=Sridevi" class=" yt-uix-sessionlink      spf-link " data-sessionlink="itct=CBEQ-isiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ" ><div class="yt-lockup-thumbnail"><div class="yt-thumb video-thumb"><span class="yt-thumb-simple">
+  <img src="//i.ytimg.com/i/XBRPeTREXxjyDf60AyMLqw/mq1.jpg" height="80" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" width="80" data-ytimg="1" alt="" >
+</span></div></div><span class="yt-ui-ellipsis yt-ui-ellipsis-3">Sridevi</span></a></div></div></div></div>
+    </div>
+
+          </div>
+      </div>
+    </div>
+  </div>
+</div></div></div></div>  <div id="footer-container" class="yt-base-gutter force-layer"><div id="footer"><div id="footer-main"><div id="footer-logo"><a href="/" id="footer-logo-link" title="YouTube home" data-sessionlink="ei=FLLAWqH8EsP6ogOl24_gCg&amp;ved=CAIQpmEiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ" class="yt-uix-sessionlink"><span class="footer-logo-icon yt-sprite"></span></a></div>  <ul class="pickers yt-uix-button-group" data-button-toggle-group="optional">
+      <li>
+            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-has-icon" type="button" onclick=";return false;" id="yt-picker-language-button" data-picker-key="language" data-button-menu-id="arrow-display" data-button-action="yt.www.picker.load" data-picker-position="footer" data-button-toggle="true"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-footer-language yt-sprite"></span></span><span class="yt-uix-button-content">  <span class="yt-picker-button-label">
+Language:
+  </span>
+  English
+</span><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+
+      </li>
+      <li>
+            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" type="button" onclick=";return false;" id="yt-picker-country-button" data-picker-key="country" data-button-menu-id="arrow-display" data-button-action="yt.www.picker.load" data-picker-position="footer" data-button-toggle="true"><span class="yt-uix-button-content">  <span class="yt-picker-button-label">
+Location:
+  </span>
+  Singapore
+</span><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+
+      </li>
+      <li>
+            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" type="button" onclick=";return false;" id="yt-picker-safetymode-button" data-picker-key="safetymode" data-button-menu-id="arrow-display" data-button-action="yt.www.picker.load" data-picker-position="footer" data-button-toggle="true"><span class="yt-uix-button-content">  <span class="yt-picker-button-label">
+Restricted Mode:
+  </span>
+Off
+</span><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+
+      </li>
+  </ul>
+<a  href="/feed/history" class="yt-uix-button  footer-history yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default yt-uix-button-has-icon" data-sessionlink="ei=FLLAWqH8EsP6ogOl24_gCg"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-footer-history yt-sprite"></span></span><span class="yt-uix-button-content">History</span></a>    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-has-icon yt-uix-button-reverse yt-google-help-link inq-no-click " type="button" onclick=";return false;" id="google-help" data-ghelp-anchor="google-help" data-ghelp-tracking-param="" data-load-chat-support="true" data-feedback-product-id="59"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-questionmark yt-sprite"></span></span><span class="yt-uix-button-content">Help
+</span></button>
+      <div id="yt-picker-language-footer" class="yt-picker" style="display: none">
+      <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Loading icon"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+  </div>
+
+      <div id="yt-picker-country-footer" class="yt-picker" style="display: none">
+      <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Loading icon"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+  </div>
+
+      <div id="yt-picker-safetymode-footer" class="yt-picker" style="display: none">
+      <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Loading icon"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+  </div>
+
+</div><div id="footer-links"><ul id="footer-links-primary">  <li><a href="//www.youtube.com/yt/about/">About</a></li>
+  <li><a href="//www.youtube.com/yt/press/">Press</a></li>
+  <li><a href="//www.youtube.com/yt/copyright/">Copyright</a></li>
+  <li><a href="//www.youtube.com/yt/creators/">Creators</a></li>
+  <li><a href="//www.youtube.com/yt/advertise/">Advertise</a></li>
+  <li><a href="//www.youtube.com/yt/dev/">Developers</a></li>
+  <li><a href="https://plus.google.com/+youtube" dir="ltr">+YouTube</a></li>
+</ul><ul id="footer-links-secondary">  <li><a href="/t/terms">Terms</a></li>
+  <li><a href="https://www.google.com/intl/en/policies/privacy/">Privacy</a></li>
+  <li><a href="//www.youtube.com/yt/policyandsafety/">
+Policy &amp; Safety
+  </a></li>
+  <li><a href="//support.google.com/youtube/?hl=en" onclick="return yt.www.feedback.start(59);" class="reportbug">Send feedback</a></li>
+  <li>
+    <a href="/testtube">Test new features</a>
+  </li>
+  <li></li>
+</ul></div></div></div>
+
+      <div class="yt-dialog hid " id="feed-privacy-lb">
+    <div class="yt-dialog-base">
+      <span class="yt-dialog-align"></span>
+      <div class="yt-dialog-fg" role="dialog">
+        <div class="yt-dialog-fg-content">
+          <div class="yt-dialog-loading">
+              <div class="yt-dialog-waiting-content">
+      <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Loading icon"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+  </div>
+
+          </div>
+          <div class="yt-dialog-content">
+              <div id="feed-privacy-dialog">
+  </div>
+
+          </div>
+          <div class="yt-dialog-working">
+              <div class="yt-dialog-working-overlay"></div>
+  <div class="yt-dialog-working-bubble">
+    <div class="yt-dialog-waiting-content">
+        <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Loading icon"></span>
+
+    <span class="yt-spinner-message">
+        Working...
+    </span>
+  </p>
+
+      </div>
+  </div>
+
+          </div>
+        </div>
+        <div class="yt-dialog-focus-trap" tabindex="0"></div>
+      </div>
+    </div>
+  </div>
+
+
+<div id="hidden-component-template-wrapper" class="hid">    <div id="shared-addto-watch-later-login" class="hid">
+      <a class="sign-in-link" href="https://accounts.google.com/ServiceLogin?uilel=3&amp;service=youtube&amp;hl=en&amp;passive=true&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dplaylist%26next%3D%252Fresults%253Fsearch_query%253Dshahrukh%252Bkhan%252Bplaylist%26hl%3Den%26action_handle_signin%3Dtrue%26app%3Ddesktop">Sign in</a> to add this to Watch Later
+
+    </div>
+<div id="yt-uix-videoactionmenu-menu" class="yt-ui-menu-content">  <div class="hide-on-create-pl-panel">
+    <h3>
+Add to
+    </h3>
+  </div>
+  <div class="add-to-widget">
+      <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Loading icon"></span>
+
+    <span class="yt-spinner-message">
+        Loading playlists...
+    </span>
+  </p>
+
+  </div>
+</div></div>    <script>var ytspf = ytspf || {};ytspf.enabled = true;ytspf.config = {'reload-identifier': 'spfreload'};ytspf.config['request-headers'] = {'X-YouTube-Identity-Token': null};ytspf.config['experimental-request-headers'] = ytspf.config['request-headers'];ytspf.config['cache-max'] = 50;ytspf.config['navigate-limit'] = 50;ytspf.config['navigate-lifetime'] = 64800000;</script>
+  <script src="/yts/jsbin/spf-vflRfjT3b/spf.js" type="text/javascript" name="spf/spf" ></script>
+  <script src="/yts/jsbin/www-en_US-vflJrvks0/base.js"  name="www/base" ></script>
+<script>spf.script.path({'www/': '/yts/jsbin/www-en_US-vflJrvks0/'});var ytdepmap = {"www/base": null, "www/common": "www/base", "www/angular_base": "www/common", "www/channels_accountupload": "www/common", "www/channels": "www/common", "www/dashboard": "www/common", "www/downloadreports": "www/common", "www/experiments": "www/common", "www/feed": "www/common", "www/instant": "www/common", "www/legomap": "www/common", "www/promo_join_network": "www/common", "www/results_harlemshake": "www/common", "www/results": "www/common", "www/results_starwars": "www/common", "www/subscriptionmanager": "www/common", "www/unlimited": "www/common", "www/watch": "www/common", "www/ypc_bootstrap": "www/common", "www/ypc_core": "www/common", "www/channels_edit": "www/channels", "www/live_dashboard": "www/angular_base", "www/videomanager": "www/angular_base", "www/watch_autoplayrenderer": "www/watch", "www/watch_edit": "www/watch", "www/watch_editor": "www/watch", "www/watch_live": "www/watch", "www/watch_promos": "www/watch", "www/watch_speedyg": "www/watch", "www/watch_transcript": "www/watch", "www/watch_videoshelf": "www/watch", "www/ct_advancedsearch": "www/videomanager", "www/my_videos": "www/videomanager"};spf.script.declare(ytdepmap);</script><script >if (window.ytcsi) {window.ytcsi.tick("je", null, '');}</script>  
+
+  <script>
+        yt.setConfig({
+      'JS_PAGE_MODULES': [
+        'www/results',
+        'www/ypc_bootstrap',
+        'www/feed',
+        ''
+      ],
+
+      'TIMING_REPORT_ON_UNLOAD': true
+    });
+
+
+
+
+      yt.setConfig({
+    'GUIDED_HELP_LOCALE': "en_US",
+    'GUIDED_HELP_ENVIRONMENT': "prod"
+  });
+
+  </script>
+  
+<script>yt.setConfig({INNERTUBE_API_KEY: "AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",GAPI_HINT_PARAMS: "m;\/_\/scs\/abc-static\/_\/js\/k=gapi.gapi.en.qJZuTTuHcJE.O\/m=__features__\/am=AAE\/rt=j\/d=1\/rs=AHpOoo8glyl83aQK4S9K5v-KraVNbM7RrQ",INNERTUBE_CONTEXT_CLIENT_NAME: 1,APIARY_HOST: "",XHR_APIARY_HOST: "youtubei.youtube.com",INNERTUBE_API_VERSION: "v1",APIARY_HOST_FIRSTPARTY: "",INNERTUBE_CONTEXT_CLIENT_VERSION: "1.20180329",'VISITOR_DATA': "CgtKRzlaRUFuVUh6Zw%3D%3D",'DELEGATED_SESSION_ID': null,'GAPI_HOST': "https:\/\/apis.google.com",'GAPI_LOCALE': "en_US",'INNERTUBE_CONTEXT_HL': "en",'INNERTUBE_CONTEXT_GL': "SG",'XHR_APIARY_HOST': "youtubei.youtube.com"});yt.setConfig({'ROOT_VE_CHILDREN': ["CAEQ7VAiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ","CAIQpmEiEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ","CGgQ_h4iEwih1pnq7JjaAhVDvWgKHaXtA6wo9CQ","CGkQ5isYACITCKHWmersmNoCFUO9aAodpe0DrCj0JA","CGoQtSwYACITCKHWmersmNoCFUO9aAodpe0DrCj0JA","CGsQtSwYASITCKHWmersmNoCFUO9aAodpe0DrCj0JA","CGwQtSwYAiITCKHWmersmNoCFUO9aAodpe0DrCj0JA","CG0Q5isYASITCKHWmersmNoCFUO9aAodpe0DrCj0JA","CG4QtSwYACITCKHWmersmNoCFUO9aAodpe0DrCj0JA","CG8QtSwYASITCKHWmersmNoCFUO9aAodpe0DrCj0JA","CHAQtSwYAiITCKHWmersmNoCFUO9aAodpe0DrCj0JA","CHEQtSwYAyITCKHWmersmNoCFUO9aAodpe0DrCj0JA","CHIQtSwYBCITCKHWmersmNoCFUO9aAodpe0DrCj0JA","CHMQtSwYBSITCKHWmersmNoCFUO9aAodpe0DrCj0JA","CHQQ5isYAiITCKHWmersmNoCFUO9aAodpe0DrCj0JA","CHUQtSwYACITCKHWmersmNoCFUO9aAodpe0DrCj0JA","CHYQ2C4YAyITCKHWmersmNoCFUO9aAodpe0DrCj0JA"],});yt.setConfig({'PAGE_NAME': "results",'LOGGED_IN': false,'SESSION_INDEX': null,'VALID_SESSION_TEMPDATA_DOMAINS': ["www.youtube.com","gaming.youtube.com"],'PARENT_TRACKING_PARAMS': "",'FORMATS_FILE_SIZE_JS': ["%s B","%s KB","%s MB","%s GB","%s TB"],'ONE_PICK_URL': "",'GOOGLEPLUS_HOST': "https:\/\/plus.google.com",'PAGEFRAME_JS': "\/yts\/jsbin\/www-pageframe-vfl8NcnO7\/www-pageframe.js",'GAPI_LOADER_URL': "\/yts\/jsbin\/www-gapi-loader-vfl4N1E0u\/www-gapi-loader.js",'JS_COMMON_MODULE': "\/yts\/jsbin\/www-en_US-vflJrvks0\/common.js",'PAGE_FRAME_DELAYLOADED_CSS': "\/yts\/cssbin\/www-pageframedelayloaded-vflNXOrSa.css",'EXPERIMENT_FLAGS': {"sponsors_whitelist_creator":true,"custom_emoji_creator":true,"live_chat_top_chat_window_length_sec":4,"enable_afv_div_reset_in_kevlar":true,"desktop_polymer_video_masthead_always_use_responsive_iframe":true,"live_chat_inline_moderation":true,"service_worker_enabled":true,"live_chat_viewer_blocks_enable_filtering":true,"warm_load_nav_start_web":true,"desktop_polymer_video_masthead_mute_ad_support":true,"optimistically_create_transport_client":true,"live_chat_top_chat_split":0.5,"live_chat_read_badge_on_event":true,"debug_forced_promo_id":"","enable_logging_directives_desktop":true,"custom_emoji_desktop":true,"enable_firefox_push_notifications":true,"live_chat_flagging_reasons":true,"very_optimistically_create_gel_client":true,"enable_desktop_polymer_video_masthead_upgrade":true,"service_worker_push_prompt_delay_ms":3888000000,"enable_youtubei_innertube":true,"desktop_pyv_on_watch_missing_params":true,"remove_web_visibility_batching":true,"service_worker_push_watch_page_prompt":true,"desktop_polymer_video_masthead_wta_support":true,"consent_url_override":"","enable_more_related_ve_logging":true,"custom_emoji_main_app":true,"cold_load_nav_start_web":true,"log_vis_on_tab_change":true,"interaction_logging_on_gel_web":true,"log_web_screen_end":true,"live_chat_viewer_blocks_show_ui":true,"web_system_health_fraction":0.01,"app_settings_snapshot_min_time_between_snapshots_hours":24,"web_always_load_chat_support":true,"desktop_notification_high_priority_ignore_push":true,"player_swfcfg_cleanup":true,"service_worker_push_force_notification_prompt_tag":"1","app_settings_snapshot_is_logging_enabled":true,"service_worker_scope":"\/","service_worker_push_prompt_cap":-1,"desktop_pyv_on_watch_override_lact":true,"use_watch_fragments2":true,"autoplay_pause_by_lact_sampling_fraction":0.0,"player_unified_fullscreen_transitions":true,"service_worker_push_enabled":true,"live_chat_replay_viewer_disclosure":true,"desktop_polymer_video_masthead_session_tempdata_ttl":30,"desktop_polymer":true,"enable_server_side_search_pyv":true,"chat_smoothing_animations":84,"watch_next_pause_autoplay_lact_sec":4500,"desktop_pyv_on_watch_via_valor":true,"live_chat_replay":true,"web_logging_max_batch":100,"clear_web_implicit_clicktracking":true,"service_worker_push_home_only":true,"autoplay_pause_sampling_fraction":0.0,"desktop_notification_set_title_bar":true,"log_window_onerror_fraction":0.1,"custom_emoji_super_chat":true,"player_external_control_on_classic_desktop":true,"live_chat_unhide_on_channel":true,"live_chat_replay_milliqps_threshold":5000,"log_web_meta_interval_ms":0,"cancel_pending_navs":true,"comment_deep_link":true,"autoescape_tempdata_url":true,"botguard_periodic_refresh":true,"use_push_for_desktop_live_chat":true,"enable_webcam_streams":true,"live_chat_viewer_blocks_enable_cache_filling":true,"enable_gaming_new_logo":true,"youtubei_for_web":true,"desktop_classic_video_masthead_wta_support":true,"enable_watch_next_pause_autoplay_lact":true,"live_chat_use_new_default_filter_mode":true,"autoplay_pause_by_lact_sec":0,"service_worker_push_home_page_prompt":true,"interaction_click_on_gel_web":true,"same_domain_static_resources_desktop":true,"custom_emoji_legacy":true,"enable_playlist_visibility":true,"gfeedback_for_signed_out_users_enabled":true,"web_gel_lact":true,"enable_desktop_polymer_video_masthead":true,"service_worker_push_logged_out_prompt_watches":-1,"live_chat_message_sampling_rate":4.0,"service_worker_push_prompt_delay_microseconds":3888000000000,"lact_local_listeners":true,"html5_serverside_pagead_id_sets_cookie":true},'HIGH_CONTRAST_MODE_CSS': "\/yts\/cssbin\/www-highcontrastmode-vflkZmzb0.css",'PREFETCH_CSS_RESOURCES' : ["\/yts\/cssbin\/player-vflxUKlL0\/www-player.css"],'PREFETCH_JS_RESOURCES': ["\/yts\/jsbin\/www-pagead-id-vfla_fkeg\/www-pagead-id.js","\/yts\/jsbin\/player-vflI0cIzU\/en_US\/base.js"],'PREFETCH_LINKS': false,'PREFETCH_LINKS_MAX': 1,'PREFETCH_AUTOPLAY': false,'PREFETCH_AUTOPLAY_TIME': 0,'PREFETCH_AUTONAV': false,'PREBUFFER_MAX': 1,'PREBUFFER_LINKS': false,'PREBUFFER_AUTOPLAY': false,'PREBUFFER_AUTONAV': false,'WATCH_LATER_BUTTON': "\n\n  \u003cbutton class=\"yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip\" type=\"button\" onclick=\";return false;\" role=\"button\" title=\"Watch later\" data-video-ids=\"__VIDEO_ID__\" data-button-menu-id=\"shared-addto-watch-later-login\"\u003e\u003cspan class=\"yt-uix-button-arrow yt-sprite\"\u003e\u003c\/span\u003e\u003c\/button\u003e\n",'WATCH_QUEUE_BUTTON': "  \u003cbutton class=\"yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip\" type=\"button\" onclick=\";return false;\" title=\"Queue\" data-video-ids=\"__VIDEO_ID__\" data-style=\"tv-queue\"\u003e\u003c\/button\u003e\n",'WATCH_QUEUE_MENU': "  \u003cspan class=\"thumb-menu dark-overflow-action-menu video-actions\"\u003e\n    \u003cbutton class=\"yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty\" type=\"button\" aria-expanded=\"false\" onclick=\";return false;\" aria-haspopup=\"true\" \u003e\u003cspan class=\"yt-uix-button-arrow yt-sprite\"\u003e\u003c\/span\u003e\u003cul class=\"watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid\"\u003e\u003cli role=\"menuitem\" class=\"overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item\" data-action=\"play-next\" onclick=\";return false;\"  data-video-ids=\"__VIDEO_ID__\"\u003e\u003cspan class=\"addto-watch-queue-menu-text\"\u003ePlay next\u003c\/span\u003e\u003c\/li\u003e\u003cli role=\"menuitem\" class=\"overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item\" data-action=\"play-now\" onclick=\";return false;\"  data-video-ids=\"__VIDEO_ID__\"\u003e\u003cspan class=\"addto-watch-queue-menu-text\"\u003ePlay now\u003c\/span\u003e\u003c\/li\u003e\u003c\/ul\u003e\u003c\/button\u003e\n  \u003c\/span\u003e\n",'SAFETY_MODE_PENDING': false,'ZWIEBACK_PING_URLS': ["https:\/\/www.google.com.sg\/pagead\/lvz?evtid=ALJwLvQhmmp3LQW2Fg4ZgxTEf8V2c_Aq5dxQOcUjQ9jlwaz23UNuK17AS32almQidBtmpwjoOtxLwskLk8J0vRnN-CEASxwTjw\u0026pg=results\u0026req_ts=1522577940\u0026sigh=AD56X6tWQ1wGVFXoukIJlf1ExjBAE5EXrg"],'LOCAL_DATE_TIME_CONFIG': {"shortMonths":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"formatShortDate":"MMM d, y","formatLongDate":"MMMM d, y 'at' h:mm a","formatWeekdayShortTime":"EE h:mm a","weekendRange":[6,5],"formatLongDateOnly":"MMMM d, y","firstDayOfWeek":0,"months":["January","February","March","April","May","June","July","August","September","October","November","December"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"amPms":["AM","PM"],"formatShortTime":"h:mm a","dateFormats":["MMMM d, y 'at' h:mm a","MMMM d, y","MMM d, y","MMM d, y"],"firstWeekCutoffDay":3,"shortWeekdays":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]},'PAGE_CL': 190943900,'PAGE_BUILD_LABEL': "youtube.ytfe.desktop_20180328_4_RC1",'VARIANTS_CHECKSUM': "7dcb6aaf03ad29d1ef10ec763672df92",'CLIENT_PROTOCOL': "HTTP\/1.1",'CLIENT_TRANSPORT': "tcp",'MDX_ENABLE_CASTV2': true,'MDX_ENABLE_QUEUE': true,'FEEDBACK_BUCKET_ID': "Search",'FEEDBACK_LOCALE_LANGUAGE': "en",'FEEDBACK_LOCALE_EXTRAS': {"accept_language":null,"logged_in":false,"experiments":"23700266,23700732,23701247,23701297,23701882,23702459,23703975,23704846,23705057,23705778,23706844,23706846,23707086,23708904,23708906,23708910,23709090,23709532,23709788,23709896,23709898,23709902,23709985,23710313,23710476,23710490,23710536,23710560,23710729,23710863,23711092,23711857,23711859,23712229,23712544,23712746,23713594,23713711,23714224,23714427,23714470,23714579,23714865,23715673,23715837,23715854,23715960,23716256,23716972,23717171,23717597,23718617,23719037,23719804,23720115,23720210,23720358,23720552,23720566,23720829,23721075,23721136,23721182,23721223,23721466,23721770,23721898,23721928,23722151,23722284,23722367,23722860,23723166,23723208,23723437,23723555,23723618,23724025,23724080,23724331,23724511,23724687,23725479,23725608,23725678,23726027,23726173,23726486,23726541,23726767,23726949,23726973,23727030,23727051,23727119,23727366,23727834,23728009,23728034,23728036,23728108,23728119,23728163,23728293,23728315,23728416,23728625,23728665,23728908,23729146,23729373,23729479,23729484,23729689,23729757,23729820,23729840,23729848,23729871,23729887,23730614,23730676,23730774,23730902,23731052,23731189,23731220,23731223,23731309,23731442,23731616,23731645,23731700,23731711,23731801,23731940,23731977,23731993,23732014,23732016,23732054,23732153,23732239,23732426,23732463,23732469,23732526,23732677,23732694,23732808,23732817,23732895,23732904,23733010,23733013,23733057,23733064,23733270,23733291,23733447,23733504,23733751,23733823,23733978,23734156,23734345,23734387,23734449,23734498,23734640,23734699,24600051,24600128,9415398,9419979,9420289,9422596,9424416,9441149,9449243,9451814,9453167,9453409,9456445,9457169,9459793,9459798,9460554,9460829,9460959,9463460,9463594,9463936,9463963,9464203,9465513,9466835,9467242,9467471,9467508,9467510,9467512,9467795,9467806,9467820,9467822,9468195,9469934,9471103,9471239,9471955,9473374,9473383,9473396,9474396,9475218,9476077,9477113,9478787,9479200,9479456,9479749,9482972,9483190,9483245,9483583,9485000,9486390,9487037,9487204,9487330,9488772,9488978,9488991,9489074,9489266,9489336,9489831,9489833"}});   yt.setConfig({
+    'GUIDED_HELP_LOCALE': "en_US",
+    'GUIDED_HELP_ENVIRONMENT': "prod"
+  });
+yt.setConfig('SPF_SEARCH_BOX', true);yt.setMsg({'ADDTO_CREATE_NEW_PLAYLIST': "Create new playlist\n",'ADDTO_CREATE_PLAYLIST_DYNAMIC_TITLE': "  $dynamic_title_placeholder (create new)\n",'ADDTO_WATCH_LATER': "Watch later",'ADDTO_WATCH_LATER_ADDED': "Added",'ADDTO_WATCH_LATER_ERROR': "Error",'ADDTO_WATCH_QUEUE': "Watch Queue",'ADDTO_WATCH_QUEUE_ADDED': "Added",'ADDTO_WATCH_QUEUE_ERROR': "Error",'ADDTO_TV_QUEUE': "Queue",'ADS_INSTREAM_FIRST_PLAY': "A video ad is playing.",'ADS_INSTREAM_SKIPPABLE': "Video ad can be skipped.",'ADS_OVERLAY_IMPRESSION': "Ad displayed.",'MASTHEAD_NOTIFICATIONS_LABEL': {"case0": "0 unread notifications.", "case1": "1 unread notification.", "other": "# unread notifications."},'MASTHEAD_NOTIFICATIONS_COUNT_99PLUS': "99+",'MDX_AUTOPLAY_OFF': 'Autoplay is off','MDX_AUTOPLAY_ON': 'Autoplay is on'});  yt.setConfig('FEED_PRIVACY_CSS_URL', "\/yts\/cssbin\/www-feedprivacydialog-vflP1Pnju.css");
+  yt.setConfig('FEED_PRIVACY_LIGHTBOX_ENABLED', true);
+yt.setConfig({'SBOX_JS_URL': "\/yts\/jsbin\/www-searchbox-legacy-vflYmoh-J\/www-searchbox-legacy.js",'SBOX_SETTINGS': {"HAS_ON_SCREEN_KEYBOARD":false,"PSUGGEST_TOKEN":null,"REQUEST_LANGUAGE":"en","PQ":"shahrukh khan playlist","SESSION_INDEX":null,"REQUEST_DOMAIN":"sg","IS_FUSION":false,"SUGG_EXP_ID":"lcpe2,lcp=1,cfro=1"},'SBOX_LABELS': {"SUGGESTION_DISMISSED_LABEL":"Suggestion removed","SUGGESTION_DISMISS_LABEL":"Remove"}});  yt.setConfig({
+    'YPC_LOADER_JS': "\/yts\/jsbin\/www-ypc-vfl_OEZ7U\/www-ypc.js",
+    'YPC_LOADER_CSS': "\/yts\/cssbin\/www-ypc-vfluXUBpe.css",
+    'YPC_SIGNIN_URL': "https:\/\/accounts.google.com\/ServiceLogin?uilel=3\u0026service=youtube\u0026hl=en\u0026passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3D%252F%26hl%3Den%26action_handle_signin%3Dtrue%26app%3Ddesktop",
+    'DBLCLK_ADVERTISER_ID': "2542116",
+    'DBLCLK_YPC_ACTIVITY_GROUP': "youtu444",
+    'SUBSCRIPTION_URL': "\/subscription_ajax",
+    'YPC_SWITCH_URL': "\/signin?feature=purchases\u0026next=%2F\u0026action_handle_signin=true\u0026skip_identity_prompt=True",
+    'YPC_GB_LANGUAGE': "en_US",
+    'YPC_MB_URL': "https:\/\/payments.youtube.com\/payments\/v4\/js\/integrator.js?ss=md",
+    'YPC_TRANSACTION_URL': "\/transaction_handler",
+    'YPC_SUBSCRIPTION_URL': "\/ypc_subscription_ajax",
+    'YPC_POST_PURCHASE_URL': "\/ypc_post_purchase_ajax",
+    'YTR_FAMILY_CREATION_URL': "https:\/\/families.google.com\/webcreation?usegapi=1",
+    'YTO_GTM_DATA': {'event': 'purchased', 'purchaseStatus': 'success'},
+    'YTO_GTM_1_BUTTON_CLICK_DATA': {'event': 'landingButtonClick', 'buttonPosition': '1'},
+    'YTO_GTM_2_BUTTON_CLICK_DATA': {'event': 'landingButtonClick', 'buttonPosition': '2'}
+  });
+  yt.setMsg({
+    'YPC_OFFER_OVERLAY': "  \n",
+    'YPC_UNSUBSCRIBE_OVERLAY': "  \n"
+  });
+  yt.setConfig('GOOGLE_HELP_CONTEXT', "search_results");
+ytcsi.info('st', 818);ytcfg.set({"CSI_SERVICE_NAME":"youtube","TIMING_INFO":{"GetSearch_rid":"0xcdcc9fa6cc9b72f0","cver":"1.20180329","yt_li":"0","c":"WEB","yt_ad":"1","yt_lt":"cold"}});;ytcfg.set({"CSI_VIEWPORT":true,"TIMING_WAIT":["ol","cpt"],"TIMING_AFT_KEYS":["ol"],"TIMING_ACTION":"results"});;  yt.setConfig({
+      'XSRF_TOKEN': "QUFFLUhqbDV6MTFkMmVPTXZURUZhYWliT2kwMEJnQlJFUXxBQ3Jtc0tuQ0FPMHNzNWhhaEg2ekExTWJucmlGaFozcE9kYnFMaVNyNUJXV2FIZmx1T0NhZ0NZRk9qMElrZjJSZXE1TExNMVd0QmtJUFUweDlGTUF3SEVVYW1NU2lFblJfUnprTFZDSjRIWk9yMURKaFMzejZxU0cxbEVFQmkzQ2dfZkZqQlRkZk8wSzNWZXZJR2FkOUJBWUpPZlZ4RkpQS1E=",
+      'XSRF_FIELD_NAME': "session_token",
+
+      'XSRF_REDIRECT_TOKEN': "4hDbdQjUz2lzfWWmhTfbtAfjdU98MTUyMjY2NDM0MUAxNTIyNTc3OTQx"  });
+yt.setConfig('ID_TOKEN', null);window.ytcfg.set('SERVICE_WORKER_KILLSWITCH', false);  yt.setConfig('THUMB_DELAY_LOAD_BUFFER', 0);
+if (window.ytcsi) {window.ytcsi.tick("jl", null, '');}</script>
+</body></html>
+

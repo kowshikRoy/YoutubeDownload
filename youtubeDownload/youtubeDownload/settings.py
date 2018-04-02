@@ -25,7 +25,7 @@ SECRET_KEY = 'i%kb=^rgcvga=7_#=rkk3p*0__80_%264jqs)dzvgf_s)mtsrd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["128.199.238.218", "127.0.0.1"]
+ALLOWED_HOSTS = ["http://www.youtubdownload.com/","www.youtubdownload.com","youtubdownload.com", "128.199.238.218", "127.0.0.1"]
 
 
 # Application definition
